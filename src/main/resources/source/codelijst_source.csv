@@ -1,0 +1,666 @@
+uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+colt:fossieltypes,skos:Collection,fossieltypes,,,Collectie van fossieltypes.,,,,,,,,,,,,,cs,fossieltype,,,,,,
+ct:684,skos:Concept,684,colt:fossieltypes,,Acritarchen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:105,skos:Concept,105,colt:fossieltypes,,Acrolepis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:161,skos:Concept,161,colt:fossieltypes,,Actaeon sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:187,skos:Concept,187,colt:fossieltypes,,Actinocamax quadratus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:188,skos:Concept,188,colt:fossieltypes,,Actinocamax sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:411,skos:Concept,411,colt:fossieltypes,,Adiantites sessilis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:97,skos:Concept,97,colt:fossieltypes,,Adiantites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:412,skos:Concept,412,colt:fossieltypes,,Alethopteris davreuxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:264,skos:Concept,264,colt:fossieltypes,,Alethopteris decurrens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:413,skos:Concept,413,colt:fossieltypes,,Alethopteris decurrens var. Gracillima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:414,skos:Concept,414,colt:fossieltypes,,Alethopteris gracillima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:265,skos:Concept,265,colt:fossieltypes,,Alethopteris lonchitica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:606,skos:Concept,606,colt:fossieltypes,,Alethopteris lonchitica decurrens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:251,skos:Concept,251,colt:fossieltypes,,Alethopteris lonchitifolia davreuxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:266,skos:Concept,266,colt:fossieltypes,,Alethopteris serli,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:608,skos:Concept,608,colt:fossieltypes,,Alethopteris serli lonchitifolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:18,skos:Concept,18,colt:fossieltypes,,Alethopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:415,skos:Concept,415,colt:fossieltypes,,Alethopteris valida,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:71,skos:Concept,71,colt:fossieltypes,,algaire mat / laminiet,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:196,skos:Concept,196,colt:fossieltypes,,algen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:638,skos:Concept,638,colt:fossieltypes,,ammonieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:416,skos:Concept,416,colt:fossieltypes,,Annularia gallioides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:410,skos:Concept,410,colt:fossieltypes,,Annularia microphylla,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:261,skos:Concept,261,colt:fossieltypes,,Annularia radiata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:417,skos:Concept,417,colt:fossieltypes,,Annularia ramosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:19,skos:Concept,19,colt:fossieltypes,,Annularia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:399,skos:Concept,399,colt:fossieltypes,,Annularia sphenophylloides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:683,skos:Concept,683,colt:fossieltypes,,Anomia lamellosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:656,skos:Concept,656,colt:fossieltypes,,Anomia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:418,skos:Concept,418,colt:fossieltypes,,Anomya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:255,skos:Concept,255,colt:fossieltypes,,Anomya (Terebratula),,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:112,skos:Concept,112,colt:fossieltypes,,Anthracoceras sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:419,skos:Concept,419,colt:fossieltypes,,Anthracomya discordata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:267,skos:Concept,267,colt:fossieltypes,,Anthracomya minima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:420,skos:Concept,420,colt:fossieltypes,,Anthracomya minima Phillipsii,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:268,skos:Concept,268,colt:fossieltypes,,Anthracomya modiolaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:421,skos:Concept,421,colt:fossieltypes,,Anthracomya oblonga,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:269,skos:Concept,269,colt:fossieltypes,,Anthracomya philippsi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:8,skos:Concept,8,colt:fossieltypes,,Anthracomya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:422,skos:Concept,422,colt:fossieltypes,,Anthracomya wardi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:276,skos:Concept,276,colt:fossieltypes,,Anthracomya wardi williamsoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:270,skos:Concept,270,colt:fossieltypes,,Anthracomya williamsoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:9,skos:Concept,9,colt:fossieltypes,,Anthraconaia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:623,skos:Concept,623,colt:fossieltypes,,Anthraconauta lenisulcata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:423,skos:Concept,423,colt:fossieltypes,,Anthraconauta minima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:289,skos:Concept,289,colt:fossieltypes,,Anthraconauta minima phillipsii,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:424,skos:Concept,424,colt:fossieltypes,,Anthraconauta Phillipsii,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:425,skos:Concept,425,colt:fossieltypes,,Anthraconauta scotica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:10,skos:Concept,10,colt:fossieltypes,,Anthraconauta sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:426,skos:Concept,426,colt:fossieltypes,,Anthraconauta subovata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:6,skos:Concept,6,colt:fossieltypes,,Anthracosia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:7,skos:Concept,7,colt:fossieltypes,,Anthracosphaerum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:84,skos:Concept,84,colt:fossieltypes,,Aphlebia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:127,skos:Concept,127,colt:fossieltypes,,Aporrhais granulosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:671,skos:Concept,671,colt:fossieltypes,,Aporrhais nilsoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:427,skos:Concept,427,colt:fossieltypes,,Aporrhais sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:155,skos:Concept,155,colt:fossieltypes,,Aporrhais speciosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:351,skos:Concept,351,colt:fossieltypes,,Arca sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:213,skos:Concept,213,colt:fossieltypes,,Arca subglabra,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:59,skos:Concept,59,colt:fossieltypes,,arthropoden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:123,skos:Concept,123,colt:fossieltypes,,Arthyris lamellosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:428,skos:Concept,428,colt:fossieltypes,,Arthyris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:76,skos:Concept,76,colt:fossieltypes,,Artisia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:393,skos:Concept,393,colt:fossieltypes,,Artisia transversa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:398,skos:Concept,398,colt:fossieltypes,,Asolanus camptotaenia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:108,skos:Concept,108,colt:fossieltypes,,Asolanus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:143,skos:Concept,143,colt:fossieltypes,,Astarte sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:344,skos:Concept,344,colt:fossieltypes,,Asterophyllites charaeformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:262,skos:Concept,262,colt:fossieltypes,,Asterophyllites equisetiformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:263,skos:Concept,263,colt:fossieltypes,,Asterophyllites grandis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:430,skos:Concept,430,colt:fossieltypes,,Asterophyllites longifolius,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:431,skos:Concept,431,colt:fossieltypes,,Asterophyllites lycopodioides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:429,skos:Concept,429,colt:fossieltypes,,Asterophyllites myriophyllum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:432,skos:Concept,432,colt:fossieltypes,,Asterophyllites roehli,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:20,skos:Concept,20,colt:fossieltypes,,Asterophyllites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:433,skos:Concept,433,colt:fossieltypes,,Asterotheca miltoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:434,skos:Concept,434,colt:fossieltypes,,Asterotheca sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:21,skos:Concept,21,colt:fossieltypes,,Aulacopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:435,skos:Concept,435,colt:fossieltypes,,Aulacopteris vulgaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:189,skos:Concept,189,colt:fossieltypes,,Avicula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:92,skos:Concept,92,colt:fossieltypes,,Aviculopecten sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:210,skos:Concept,210,colt:fossieltypes,,Baculites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:126,skos:Concept,126,colt:fossieltypes,,Baculites vertebralis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:364,skos:Concept,364,colt:fossieltypes,,Balanocrinus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:145,skos:Concept,145,colt:fossieltypes,,Balanus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:642,skos:Concept,642,colt:fossieltypes,,Barbatia marullensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:641,skos:Concept,641,colt:fossieltypes,,Barbatia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:203,skos:Concept,203,colt:fossieltypes,,belemnieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:125,skos:Concept,125,colt:fossieltypes,,Belemnitella mucronata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:201,skos:Concept,201,colt:fossieltypes,,Belemnitella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:436,skos:Concept,436,colt:fossieltypes,,Bellinurus Céphaloth.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:437,skos:Concept,437,colt:fossieltypes,,Bellinurus reginae,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:102,skos:Concept,102,colt:fossieltypes,,Bellinurus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:438,skos:Concept,438,colt:fossieltypes,,Beyrichia arcuata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:439,skos:Concept,439,colt:fossieltypes,,Beyrichia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:205,skos:Concept,205,colt:fossieltypes,,Bivalven,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:271,skos:Concept,271,colt:fossieltypes,,Bothrodendron minutifolium,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:440,skos:Concept,440,colt:fossieltypes,,Bothrodendron punctatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:22,skos:Concept,22,colt:fossieltypes,,Bothrodendron sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:441,skos:Concept,441,colt:fossieltypes,,Bothrostrobus olryi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:23,skos:Concept,23,colt:fossieltypes,,Bothrostrobus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:192,skos:Concept,192,colt:fossieltypes,,Bourgueticrinus ellipticus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:442,skos:Concept,442,colt:fossieltypes,,Bourgueticrinus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:62,skos:Concept,62,colt:fossieltypes,,brachiopoden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:159,skos:Concept,159,colt:fossieltypes,,Bryozoa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:256,skos:Concept,256,colt:fossieltypes,,Buccinum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:443,skos:Concept,443,colt:fossieltypes,,Calamites approximatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:444,skos:Concept,444,colt:fossieltypes,,Calamites carinatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:272,skos:Concept,272,colt:fossieltypes,,Calamites cisti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:273,skos:Concept,273,colt:fossieltypes,,Calamites indulatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:445,skos:Concept,445,colt:fossieltypes,,Calamites ostraviensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:446,skos:Concept,446,colt:fossieltypes,,Calamites paleaceus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:274,skos:Concept,274,colt:fossieltypes,,Calamites ramosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:447,skos:Concept,447,colt:fossieltypes,,Calamites semicircularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:24,skos:Concept,24,colt:fossieltypes,,Calamites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:275,skos:Concept,275,colt:fossieltypes,,Calamites suckowi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:448,skos:Concept,448,colt:fossieltypes,,Calamites undulatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:409,skos:Concept,409,colt:fossieltypes,,Calamites verticillatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:278,skos:Concept,278,colt:fossieltypes,,Calamophyllites goepperti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:81,skos:Concept,81,colt:fossieltypes,,Calamophyllites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:279,skos:Concept,279,colt:fossieltypes,,Calamophyllites verticillatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:277,skos:Concept,277,colt:fossieltypes,,Calamostachys germanica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:450,skos:Concept,450,colt:fossieltypes,,Calamostachys ramosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:25,skos:Concept,25,colt:fossieltypes,,Calamostachys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:184,skos:Concept,184,colt:fossieltypes,,Calcarina calcitrapoides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:183,skos:Concept,183,colt:fossieltypes,,Calcarina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:240,skos:Concept,240,colt:fossieltypes,,Calianassa fayiasi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:231,skos:Concept,231,colt:fossieltypes,,Calianassa sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:157,skos:Concept,157,colt:fossieltypes,,Cancellaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:50,skos:Concept,50,colt:fossieltypes,,Cantheliophorus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:451,skos:Concept,451,colt:fossieltypes,,Carbonia acuta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:404,skos:Concept,404,colt:fossieltypes,,Carbonia fabulina,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:104,skos:Concept,104,colt:fossieltypes,,Carbonia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:280,skos:Concept,280,colt:fossieltypes,,Carbonicola acuta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:453,skos:Concept,453,colt:fossieltypes,,Carbonicola acuta vel. Robusta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:281,skos:Concept,281,colt:fossieltypes,,Carbonicola aquilina,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:613,skos:Concept,613,colt:fossieltypes,,Carbonicola aquilina acuta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:605,skos:Concept,605,colt:fossieltypes,,Carbonicola aquilina var. Phrygiana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:310,skos:Concept,310,colt:fossieltypes,,Carbonicola callopristodus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:282,skos:Concept,282,colt:fossieltypes,,Carbonicola nucularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:454,skos:Concept,454,colt:fossieltypes,,Carbonicola obtusa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:283,skos:Concept,283,colt:fossieltypes,,Carbonicola ovalis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:455,skos:Concept,455,colt:fossieltypes,,Carbonicola phrygiana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:456,skos:Concept,456,colt:fossieltypes,,Carbonicola pyritisées,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:457,skos:Concept,457,colt:fossieltypes,,Carbonicola robusta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:284,skos:Concept,284,colt:fossieltypes,,Carbonicola similis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:5,skos:Concept,5,colt:fossieltypes,,Carbonicola sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:460,skos:Concept,460,colt:fossieltypes,,Carbonicola turgida,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:356,skos:Concept,356,colt:fossieltypes,,Cardita kickxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:345,skos:Concept,345,colt:fossieltypes,,Cardita sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:655,skos:Concept,655,colt:fossieltypes,,Cardium becksi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:260,skos:Concept,260,colt:fossieltypes,,Cardium cingulatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:674,skos:Concept,674,colt:fossieltypes,,Cardium nöggerathi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:140,skos:Concept,140,colt:fossieltypes,,Cardium sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:405,skos:Concept,405,colt:fossieltypes,,Carpolites perpusillus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:75,skos:Concept,75,colt:fossieltypes,,Carpolites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:649,skos:Concept,649,colt:fossieltypes,,Cerithes sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:217,skos:Concept,217,colt:fossieltypes,,Cerithium decheni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:664,skos:Concept,664,colt:fossieltypes,,Cerithium koeneni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:216,skos:Concept,216,colt:fossieltypes,,Cerithium sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:317,skos:Concept,317,colt:fossieltypes,,Cheirodus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:347,skos:Concept,347,colt:fossieltypes,,Cheirodus striatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:239,skos:Concept,239,colt:fossieltypes,,Chenopus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:685,skos:Concept,685,colt:fossieltypes,,Chitinozoa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:644,skos:Concept,644,colt:fossieltypes,,Chlamys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:174,skos:Concept,174,colt:fossieltypes,,Chonetes papilionacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:119,skos:Concept,119,colt:fossieltypes,,Chonetes sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:164,skos:Concept,164,colt:fossieltypes,,Cidaris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:461,skos:Concept,461,colt:fossieltypes,,Cingularia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:462,skos:Concept,462,colt:fossieltypes,,Cingularia typica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:463,skos:Concept,463,colt:fossieltypes,,Cochlichnus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:300,skos:Concept,300,colt:fossieltypes,,Coelacanthus elegans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:79,skos:Concept,79,colt:fossieltypes,,Coelacanthus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:90,skos:Concept,90,colt:fossieltypes,,Coelonautilus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:349,skos:Concept,349,colt:fossieltypes,,coniferen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:234,skos:Concept,234,colt:fossieltypes,,coprolieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:146,skos:Concept,146,colt:fossieltypes,,Corbula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:464,skos:Concept,464,colt:fossieltypes,,Cordaianthus pitcairniae,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:465,skos:Concept,465,colt:fossieltypes,,Cordaianthus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:466,skos:Concept,466,colt:fossieltypes,,Cordaicarpus cordai,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:467,skos:Concept,467,colt:fossieltypes,,Cordaicarpus gutbieri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:468,skos:Concept,468,colt:fossieltypes,,Cordaicarpus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:285,skos:Concept,285,colt:fossieltypes,,Cordaites borassifolius,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:470,skos:Concept,470,colt:fossieltypes,,Cordaites palmaeformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:471,skos:Concept,471,colt:fossieltypes,,Cordaites principalis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:26,skos:Concept,26,colt:fossieltypes,,Cordaites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:154,skos:Concept,154,colt:fossieltypes,,Cornuspira involvens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:472,skos:Concept,472,colt:fossieltypes,,Cornuspira sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:83,skos:Concept,83,colt:fossieltypes,,Corynepteris coralloides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:89,skos:Concept,89,colt:fossieltypes,,Corynepteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:473,skos:Concept,473,colt:fossieltypes,,Corynepteris sternbergi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:170,skos:Concept,170,colt:fossieltypes,,Crania ignabergensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:474,skos:Concept,474,colt:fossieltypes,,Crania sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:376,skos:Concept,376,colt:fossieltypes,,Crassatella aracaea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:375,skos:Concept,375,colt:fossieltypes,,Crassatella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:681,skos:Concept,681,colt:fossieltypes,,Crassatella symmetrica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:72,skos:Concept,72,colt:fossieltypes,,crinoïden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:153,skos:Concept,153,colt:fossieltypes,,Cristellaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:475,skos:Concept,475,colt:fossieltypes,,Crossotheca schatzlarensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:476,skos:Concept,476,colt:fossieltypes,,Crossotheca sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:179,skos:Concept,179,colt:fossieltypes,,Crustaceae,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:643,skos:Concept,643,colt:fossieltypes,,Cucullea alta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:386,skos:Concept,386,colt:fossieltypes,,Cucullea matheroniana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:477,skos:Concept,477,colt:fossieltypes,,Cucullea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:136,skos:Concept,136,colt:fossieltypes,,Cucullea subglabra,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:11,skos:Concept,11,colt:fossieltypes,,Curvirimula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:286,skos:Concept,286,colt:fossieltypes,,Cyclopteris orbicularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:27,skos:Concept,27,colt:fossieltypes,,Cyclopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:662,skos:Concept,662,colt:fossieltypes,,Cypricardia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:99,skos:Concept,99,colt:fossieltypes,,Cypridina (Entomis) sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:178,skos:Concept,178,colt:fossieltypes,,Cyprimeria gelinitzi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:478,skos:Concept,478,colt:fossieltypes,,Cyprimeria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:224,skos:Concept,224,colt:fossieltypes,,Cyprina morrisi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:185,skos:Concept,185,colt:fossieltypes,,Cyprina nysti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:141,skos:Concept,141,colt:fossieltypes,,Cyprina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:246,skos:Concept,246,colt:fossieltypes,,Cypris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:640,skos:Concept,640,colt:fossieltypes,,Cytherea ovalis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:663,skos:Concept,663,colt:fossieltypes,,Cytherea plana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:660,skos:Concept,660,colt:fossieltypes,,Cytherea polymorpha,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:646,skos:Concept,646,colt:fossieltypes,,Cytherea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:13,skos:Concept,13,colt:fossieltypes,,Cyzicus (Estheria) sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:150,skos:Concept,150,colt:fossieltypes,,Dentalium sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:121,skos:Concept,121,colt:fossieltypes,,Dentallum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:479,skos:Concept,479,colt:fossieltypes,,Diplotmema furcatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:28,skos:Concept,28,colt:fossieltypes,,Diplotmema sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:158,skos:Concept,158,colt:fossieltypes,,Ditrupa clava,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:180,skos:Concept,180,colt:fossieltypes,,Ditrupa mosae,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:167,skos:Concept,167,colt:fossieltypes,,Ditrupa sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:622,skos:Concept,622,colt:fossieltypes,,Dorycordaites palmaeformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:101,skos:Concept,101,colt:fossieltypes,,Dorycordaites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:245,skos:Concept,245,colt:fossieltypes,,Dosinia lenticularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:382,skos:Concept,382,colt:fossieltypes,,Dosinia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:610,skos:Concept,610,colt:fossieltypes,,Drydenius molyneuxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:587,skos:Concept,587,colt:fossieltypes,,Drydenius sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:193,skos:Concept,193,colt:fossieltypes,,Echinocorys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:194,skos:Concept,194,colt:fossieltypes,,Echinocorys vulgaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:480,skos:Concept,480,colt:fossieltypes,,Elonichthys aitkeni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:481,skos:Concept,481,colt:fossieltypes,,Elonichthys denticulatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:85,skos:Concept,85,colt:fossieltypes,,Elonichthys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:252,skos:Concept,252,colt:fossieltypes,,Enchodus (Faujasi) sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:130,skos:Concept,130,colt:fossieltypes,,Entalis geinitzi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:483,skos:Concept,483,colt:fossieltypes,,Entalis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:61,skos:Concept,61,colt:fossieltypes,,Entomostraca,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:182,skos:Concept,182,colt:fossieltypes,,Eriphyla lenticularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:484,skos:Concept,484,colt:fossieltypes,,Eriphyla sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:485,skos:Concept,485,colt:fossieltypes,,Estheria simoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:486,skos:Concept,486,colt:fossieltypes,,Estheria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:91,skos:Concept,91,colt:fossieltypes,,Eurypterus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:197,skos:Concept,197,colt:fossieltypes,,foraminiferen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:626,skos:Concept,626,colt:fossieltypes,,Fusus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:117,skos:Concept,117,colt:fossieltypes,,Gastropoden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:384,skos:Concept,384,colt:fossieltypes,,Geinitzia elegans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:383,skos:Concept,383,colt:fossieltypes,,Geinitzia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:16,skos:Concept,16,colt:fossieltypes,,Geisina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:134,skos:Concept,134,colt:fossieltypes,,Gervillia solenoides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:487,skos:Concept,487,colt:fossieltypes,,Gervillia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:624,skos:Concept,624,colt:fossieltypes,,Glycemeris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:67,skos:Concept,67,colt:fossieltypes,,goniatieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:56,skos:Concept,56,colt:fossieltypes,,graafgang,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:686,skos:Concept,686,colt:fossieltypes,,Graptolieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:637,skos:Concept,637,colt:fossieltypes,,Guettardia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:55,skos:Concept,55,colt:fossieltypes,,Guilielmites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:488,skos:Concept,488,colt:fossieltypes,,Gulpenia limburgensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:489,skos:Concept,489,colt:fossieltypes,,Gulpenia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:204,skos:Concept,204,colt:fossieltypes,,Gyrolites davreuxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:221,skos:Concept,221,colt:fossieltypes,,Gyrolites dewalquei,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:219,skos:Concept,219,colt:fossieltypes,,Gyrolites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:625,skos:Concept,625,colt:fossieltypes,,haaietanden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:96,skos:Concept,96,colt:fossieltypes,,Hexaspermum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:367,skos:Concept,367,colt:fossieltypes,,Inoceramus balticus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:667,skos:Concept,667,colt:fossieltypes,,Inoceramus inconstans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:666,skos:Concept,666,colt:fossieltypes,,Inoceramus kleini,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:368,skos:Concept,368,colt:fossieltypes,,Inoceramus lamarcki var. websteri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:222,skos:Concept,222,colt:fossieltypes,,Inoceramus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:199,skos:Concept,199,colt:fossieltypes,,Janira quadricostata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:232,skos:Concept,232,colt:fossieltypes,,Janira sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:70,skos:Concept,70,colt:fossieltypes,,koralen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:381,skos:Concept,381,colt:fossieltypes,,krabben,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:253,skos:Concept,253,colt:fossieltypes,,Lamna sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:14,skos:Concept,14,colt:fossieltypes,,Leaia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:490,skos:Concept,490,colt:fossieltypes,,Leaia tricarinata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:615,skos:Concept,615,colt:fossieltypes,,Leaia tricarinata minima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:220,skos:Concept,220,colt:fossieltypes,,Leda deshayesiana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:148,skos:Concept,148,colt:fossieltypes,,Leda sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:82,skos:Concept,82,colt:fossieltypes,,Lepidodendron aculeatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:494,skos:Concept,494,colt:fossieltypes,,Lepidodendron dichotomum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:395,skos:Concept,395,colt:fossieltypes,,Lepidodendron dissitum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:607,skos:Concept,607,colt:fossieltypes,,Lepidodendron jaraczewski,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:290,skos:Concept,290,colt:fossieltypes,,Lepidodendron lycopodioïdes,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:291,skos:Concept,291,colt:fossieltypes,,Lepidodendron obovatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:292,skos:Concept,292,colt:fossieltypes,,Lepidodendron ophiurus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:31,skos:Concept,31,colt:fossieltypes,,Lepidodendron sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:293,skos:Concept,293,colt:fossieltypes,,Lepidodendron sternbergi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:249,skos:Concept,249,colt:fossieltypes,,Lepidodendron triangulaire,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:294,skos:Concept,294,colt:fossieltypes,,Lepidodendron wortheni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:397,skos:Concept,397,colt:fossieltypes,,Lepidophloios acerosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:295,skos:Concept,295,colt:fossieltypes,,Lepidophloios caricinus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:296,skos:Concept,296,colt:fossieltypes,,Lepidophloios laricinus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:80,skos:Concept,80,colt:fossieltypes,,Lepidophloios sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:297,skos:Concept,297,colt:fossieltypes,,Lepidophyllum lanceolatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:496,skos:Concept,496,colt:fossieltypes,,Lepidophyllum majus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:298,skos:Concept,298,colt:fossieltypes,,Lepidophyllum obovatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:32,skos:Concept,32,colt:fossieltypes,,Lepidophyllum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:299,skos:Concept,299,colt:fossieltypes,,Lepidophyllum triangulare,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:497,skos:Concept,497,colt:fossieltypes,,Lepidophyllum waldenburgense,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:87,skos:Concept,87,colt:fossieltypes,,Lepidospermum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:498,skos:Concept,498,colt:fossieltypes,,Lepidostrobus ornatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:33,skos:Concept,33,colt:fossieltypes,,Lepidostrobus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:499,skos:Concept,499,colt:fossieltypes,,Lepidostrobus sparrosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:500,skos:Concept,500,colt:fossieltypes,,Lepidostrobus spinosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:287,skos:Concept,287,colt:fossieltypes,,Lepidostrobus squarrosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:288,skos:Concept,288,colt:fossieltypes,,Lepidostrobus variabilis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:661,skos:Concept,661,colt:fossieltypes,,Lima granulata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:679,skos:Concept,679,colt:fossieltypes,,Lima oviformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:211,skos:Concept,211,colt:fossieltypes,,Lima soverbyi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:209,skos:Concept,209,colt:fossieltypes,,Lima sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:149,skos:Concept,149,colt:fossieltypes,,Limatula nysti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:501,skos:Concept,501,colt:fossieltypes,,Limatula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:151,skos:Concept,151,colt:fossieltypes,,Limopsis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:301,skos:Concept,301,colt:fossieltypes,,Lingula mytiloïdes,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:4,skos:Concept,4,colt:fossieltypes,,Lingula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:502,skos:Concept,502,colt:fossieltypes,,Lingula squamiformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:380,skos:Concept,380,colt:fossieltypes,,Lingula tenuissima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:503,skos:Concept,503,colt:fossieltypes,,Linopteris muensteri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:504,skos:Concept,504,colt:fossieltypes,,Linopteris neuropteroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:505,skos:Concept,505,colt:fossieltypes,,Linopteris neuropteroides var. Major,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:302,skos:Concept,302,colt:fossieltypes,,Linopteris obliqua,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:34,skos:Concept,34,colt:fossieltypes,,Linopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:135,skos:Concept,135,colt:fossieltypes,,Liopistha aequivalvis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:506,skos:Concept,506,colt:fossieltypes,,Liopistha sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:128,skos:Concept,128,colt:fossieltypes,,Lispodesthes schlotheimi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:507,skos:Concept,507,colt:fossieltypes,,Lispodesthes sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:303,skos:Concept,303,colt:fossieltypes,,Lonchopteris bricei,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:508,skos:Concept,508,colt:fossieltypes,,Lonchopteris eschweileriana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:509,skos:Concept,509,colt:fossieltypes,,Lonchopteris rugosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:35,skos:Concept,35,colt:fossieltypes,,Lonchopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:29,skos:Concept,29,colt:fossieltypes,,losse bladeren,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:346,skos:Concept,346,colt:fossieltypes,,Lucina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:166,skos:Concept,166,colt:fossieltypes,,Lucina squamula,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:129,skos:Concept,129,colt:fossieltypes,,Lunatia klipsteini,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:510,skos:Concept,510,colt:fossieltypes,,Lunatia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:109,skos:Concept,109,colt:fossieltypes,,Lycopodiales,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:304,skos:Concept,304,colt:fossieltypes,,Lycopodites carbonaceus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:74,skos:Concept,74,colt:fossieltypes,,Lycopodites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:254,skos:Concept,254,colt:fossieltypes,,Mactra sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:370,skos:Concept,370,colt:fossieltypes,,Magas pumilus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:512,skos:Concept,512,colt:fossieltypes,,Magas sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:258,skos:Concept,258,colt:fossieltypes,,Mammalia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:305,skos:Concept,305,colt:fossieltypes,,Mariopteris acuta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:513,skos:Concept,513,colt:fossieltypes,,Mariopteris dernoncourti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:621,skos:Concept,621,colt:fossieltypes,,Mariopteris furcata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:401,skos:Concept,401,colt:fossieltypes,,Mariopteris latifolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:306,skos:Concept,306,colt:fossieltypes,,Mariopteris muricata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:514,skos:Concept,514,colt:fossieltypes,,Mariopteris muricata acuta,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:604,skos:Concept,604,colt:fossieltypes,,Mariopteris muricata nervosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:515,skos:Concept,515,colt:fossieltypes,,Mariopteris muricata sauveuri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:516,skos:Concept,516,colt:fossieltypes,,Mariopteris nervosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:400,skos:Concept,400,colt:fossieltypes,,Mariopteris sauveuri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:237,skos:Concept,237,colt:fossieltypes,,Mariopteris sauveuri latifolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:36,skos:Concept,36,colt:fossieltypes,,Mariopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:517,skos:Concept,517,colt:fossieltypes,,Mariopteris sphenopteroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:518,skos:Concept,518,colt:fossieltypes,,Megalichthys cocolepis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:519,skos:Concept,519,colt:fossieltypes,,Megalichthys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:218,skos:Concept,218,colt:fossieltypes,,Meretrix ovalis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:142,skos:Concept,142,colt:fossieltypes,,Meretrix sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:365,skos:Concept,365,colt:fossieltypes,,Micraster sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:350,skos:Concept,350,colt:fossieltypes,,Murex sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:520,skos:Concept,520,colt:fossieltypes,,Myriophyllites columnaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:51,skos:Concept,51,colt:fossieltypes,,Myriophyllites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:307,skos:Concept,307,colt:fossieltypes,,Naiadites carinata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:521,skos:Concept,521,colt:fossieltypes,,Naiadites carinata aquilina,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:522,skos:Concept,522,colt:fossieltypes,,Naiadites flexuosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:406,skos:Concept,406,colt:fossieltypes,,Naiadites modiolaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:308,skos:Concept,308,colt:fossieltypes,,Naiadites quadrata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:523,skos:Concept,523,colt:fossieltypes,,Naiadites sowerbyi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:12,skos:Concept,12,colt:fossieltypes,,Naiadites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:665,skos:Concept,665,colt:fossieltypes,,Natica cretacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:160,skos:Concept,160,colt:fossieltypes,,Natica sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:352,skos:Concept,352,colt:fossieltypes,,Nautilus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:676,skos:Concept,676,colt:fossieltypes,,Neithea grypheata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:630,skos:Concept,630,colt:fossieltypes,,Neithea quadricostata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:628,skos:Concept,628,colt:fossieltypes,,Neithea quinquecostata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:654,skos:Concept,654,colt:fossieltypes,,Neithea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:524,skos:Concept,524,colt:fossieltypes,,Neuropteris abbreviata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:312,skos:Concept,312,colt:fossieltypes,,Neuropteris antecedens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:616,skos:Concept,616,colt:fossieltypes,,Neuropteris attenuata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:309,skos:Concept,309,colt:fossieltypes,,Neuropteris fleonosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:525,skos:Concept,525,colt:fossieltypes,,Neuropteris flexuosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:236,skos:Concept,236,colt:fossieltypes,,Neuropteris gigantea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:526,skos:Concept,526,colt:fossieltypes,,Neuropteris gigantea abbreviata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:528,skos:Concept,528,colt:fossieltypes,,Neuropteris gigantea vera,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:311,skos:Concept,311,colt:fossieltypes,,Neuropteris heterophylla,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:530,skos:Concept,530,colt:fossieltypes,,Neuropteris heterophylla hollandica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:531,skos:Concept,531,colt:fossieltypes,,Neuropteris heterophylla linguaefolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:533,skos:Concept,533,colt:fossieltypes,,Neuropteris hollandica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:534,skos:Concept,534,colt:fossieltypes,,Neuropteris hollandica heterophylla,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:535,skos:Concept,535,colt:fossieltypes,,Neuropteris hollandica tenuifolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:390,skos:Concept,390,colt:fossieltypes,,Neuropteris linguaefolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:313,skos:Concept,313,colt:fossieltypes,,Neuropteris obliqua,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:537,skos:Concept,537,colt:fossieltypes,,Neuropteris obliqua var. Impar,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:394,skos:Concept,394,colt:fossieltypes,,Neuropteris pseudogigantea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:314,skos:Concept,314,colt:fossieltypes,,Neuropteris rarinervis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:315,skos:Concept,315,colt:fossieltypes,,Neuropteris scheuchzeri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:538,skos:Concept,538,colt:fossieltypes,,Neuropteris schlehani,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:37,skos:Concept,37,colt:fossieltypes,,Neuropteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:316,skos:Concept,316,colt:fossieltypes,,Neuropteris sporenges,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:63,skos:Concept,63,colt:fossieltypes,,Neuropteris tenuifolia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:540,skos:Concept,540,colt:fossieltypes,,Neuropteris tenuifolia heterophylla,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:541,skos:Concept,541,colt:fossieltypes,,Neuropteris tenuifolia hollandica,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:363,skos:Concept,363,colt:fossieltypes,,Nodosaria raphanistrum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:223,skos:Concept,223,colt:fossieltypes,,Nodosaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:243,skos:Concept,243,colt:fossieltypes,,Notidamus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:241,skos:Concept,241,colt:fossieltypes,,Nucula chastelli,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:147,skos:Concept,147,colt:fossieltypes,,Nucula duchasteli,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:156,skos:Concept,156,colt:fossieltypes,,Nucula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:544,skos:Concept,544,colt:fossieltypes,,Nuculochlamys attenuata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:545,skos:Concept,545,colt:fossieltypes,,Nuculochlamys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:73,skos:Concept,73,colt:fossieltypes,,nummulieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:627,skos:Concept,627,colt:fossieltypes,,Nummulites laevigatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:361,skos:Concept,361,colt:fossieltypes,,Nummulites planulatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:546,skos:Concept,546,colt:fossieltypes,,Nummulites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:357,skos:Concept,357,colt:fossieltypes,,Nummulites variolarius,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:165,skos:Concept,165,colt:fossieltypes,,Nummulites wemmelensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:547,skos:Concept,547,colt:fossieltypes,,Odontaspis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:362,skos:Concept,362,colt:fossieltypes,,Odontaspis winkleri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:230,skos:Concept,230,colt:fossieltypes,,oesters,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:687,skos:Concept,687,colt:fossieltypes,,Oldhamia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:-1,skos:Concept,-1,colt:fossieltypes,,onbepaald,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:0,skos:Concept,0,colt:fossieltypes,,onbepaalde fauna,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:1,skos:Concept,1,colt:fossieltypes,,onbepaalde flora / plantenresten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:2,skos:Concept,2,colt:fossieltypes,,onbepaald ichnofossiel,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:548,skos:Concept,548,colt:fossieltypes,,Orbiculoides missouriensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:58,skos:Concept,58,colt:fossieltypes,,Orbiculoides sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:163,skos:Concept,163,colt:fossieltypes,,Orbitoliten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:113,skos:Concept,113,colt:fossieltypes,,Orthoceras sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:225,skos:Concept,225,colt:fossieltypes,,Osmeroides sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:15,skos:Concept,15,colt:fossieltypes,,ostracoden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:259,skos:Concept,259,colt:fossieltypes,,Ostrea callifera,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:407,skos:Concept,407,colt:fossieltypes,,Ostrea goldfussi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:208,skos:Concept,208,colt:fossieltypes,,Ostrea laciniata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:250,skos:Concept,250,colt:fossieltypes,,Ostrea lateralis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:645,skos:Concept,645,colt:fossieltypes,,Ostrea Lunata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:195,skos:Concept,195,colt:fossieltypes,,Ostrea semiplana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:139,skos:Concept,139,colt:fossieltypes,,Ostrea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:247,skos:Concept,247,colt:fossieltypes,,Ostrea ventilabrum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:198,skos:Concept,198,colt:fossieltypes,,Ostrea vesicularis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:631,skos:Concept,631,colt:fossieltypes,,Oxyrhina angustidens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:633,skos:Concept,633,colt:fossieltypes,,Oxyrhina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:114,skos:Concept,114,colt:fossieltypes,,Palaeocaris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:318,skos:Concept,318,colt:fossieltypes,,Palaeostachya pedunculata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:77,skos:Concept,77,colt:fossieltypes,,Palaeostachya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:319,skos:Concept,319,colt:fossieltypes,,Palaeostachya volkmanni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:552,skos:Concept,552,colt:fossieltypes,,Palaeoxyris helicteroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:106,skos:Concept,106,colt:fossieltypes,,Palaeoxyris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:553,skos:Concept,553,colt:fossieltypes,,Palmatopteris furcata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:554,skos:Concept,554,colt:fossieltypes,,Palmatopteris furcata var. linearis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:78,skos:Concept,78,colt:fossieltypes,,Palmatopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:629,skos:Concept,629,colt:fossieltypes,,Panopoea gurgitis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:248,skos:Concept,248,colt:fossieltypes,,Panopoea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:648,skos:Concept,648,colt:fossieltypes,,Parapachydiscus levyi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:647,skos:Concept,647,colt:fossieltypes,,Parapachydiscus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:124,skos:Concept,124,colt:fossieltypes,,Paripteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:657,skos:Concept,657,colt:fossieltypes,,Patella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:321,skos:Concept,321,colt:fossieltypes,,Pecopteris abbreviata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:320,skos:Concept,320,colt:fossieltypes,,Pecopteris aspera,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:402,skos:Concept,402,colt:fossieltypes,,Pecopteris avoldensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:322,skos:Concept,322,colt:fossieltypes,,Pecopteris dentata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:323,skos:Concept,323,colt:fossieltypes,,Pecopteris dentata var. delicatula,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:555,skos:Concept,555,colt:fossieltypes,,Pecopteris miltoni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:556,skos:Concept,556,colt:fossieltypes,,Pecopteris pennaeformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:324,skos:Concept,324,colt:fossieltypes,,Pecopteris plumosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:38,skos:Concept,38,colt:fossieltypes,,Pecopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:557,skos:Concept,557,colt:fossieltypes,,Pecopteris volkmanni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:66,skos:Concept,66,colt:fossieltypes,,pecten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:366,skos:Concept,366,colt:fossieltypes,,Pecten campaniensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:658,skos:Concept,658,colt:fossieltypes,,Pecten cinctus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:358,skos:Concept,358,colt:fossieltypes,,Pecten corneus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:212,skos:Concept,212,colt:fossieltypes,,Pecten loevis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:359,skos:Concept,359,colt:fossieltypes,,Pecten plebejus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:228,skos:Concept,228,colt:fossieltypes,,Pecten pulchellus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:137,skos:Concept,137,colt:fossieltypes,,Pecten pusio,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:144,skos:Concept,144,colt:fossieltypes,,Pecten sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:206,skos:Concept,206,colt:fossieltypes,,Pecten spatulus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:677,skos:Concept,677,colt:fossieltypes,,Pectunculus geinitzi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:186,skos:Concept,186,colt:fossieltypes,,Pectunculus observatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:680,skos:Concept,680,colt:fossieltypes,,Pectunculus obsoletus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:138,skos:Concept,138,colt:fossieltypes,,Pectunculus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:354,skos:Concept,354,colt:fossieltypes,,Pholadomya margaritacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:244,skos:Concept,244,colt:fossieltypes,,Pholadomya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:98,skos:Concept,98,colt:fossieltypes,,Pinakodendron sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:348,skos:Concept,348,colt:fossieltypes,,Pinites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:659,skos:Concept,659,colt:fossieltypes,,Pinna cretacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:360,skos:Concept,360,colt:fossieltypes,,Pinna margaritacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:558,skos:Concept,558,colt:fossieltypes,,Pinna sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:559,skos:Concept,559,colt:fossieltypes,,Pinnularia columnaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:39,skos:Concept,39,colt:fossieltypes,,Pinnularia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:53,skos:Concept,53,colt:fossieltypes,,Planolites montanus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:52,skos:Concept,52,colt:fossieltypes,,Planolites ophthalmoides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:560,skos:Concept,560,colt:fossieltypes,,Planolites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:617,skos:Concept,617,colt:fossieltypes,,Platysomus parvulus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:618,skos:Concept,618,colt:fossieltypes,,Platysomus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:632,skos:Concept,632,colt:fossieltypes,,Pleurotomaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:88,skos:Concept,88,colt:fossieltypes,,Posidoniella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:110,skos:Concept,110,colt:fossieltypes,,Posidonomya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:561,skos:Concept,561,colt:fossieltypes,,Prestwichianella rotundata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:562,skos:Concept,562,colt:fossieltypes,,Prestwichianella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:103,skos:Concept,103,colt:fossieltypes,,Prestwichia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:171,skos:Concept,171,colt:fossieltypes,,Productus cora,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:612,skos:Concept,612,colt:fossieltypes,,Productus pustula,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:611,skos:Concept,611,colt:fossieltypes,,Productus rimberti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:115,skos:Concept,115,colt:fossieltypes,,Productus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:371,skos:Concept,371,colt:fossieltypes,,Pteria coerulescens,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:372,skos:Concept,372,colt:fossieltypes,,Pteria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:563,skos:Concept,563,colt:fossieltypes,,Pterinopecten papyraceus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:93,skos:Concept,93,colt:fossieltypes,,Pterinopecten sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:57,skos:Concept,57,colt:fossieltypes,,pyriettubulatie,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:396,skos:Concept,396,colt:fossieltypes,,Radicites capillacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:325,skos:Concept,325,colt:fossieltypes,,Radicites columnaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:40,skos:Concept,40,colt:fossieltypes,,Radicites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:94,skos:Concept,94,colt:fossieltypes,,Renaultia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:111,skos:Concept,111,colt:fossieltypes,,Reticuloceras sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:65,skos:Concept,65,colt:fossieltypes,,Rhabdoderma sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:564,skos:Concept,564,colt:fossieltypes,,Rhadinichtys renieri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:95,skos:Concept,95,colt:fossieltypes,,Rhadinichtys sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:122,skos:Concept,122,colt:fossieltypes,,Rhipidomella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:566,skos:Concept,566,colt:fossieltypes,,Rhizodopsis sauroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:86,skos:Concept,86,colt:fossieltypes,,Rhizodopsis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:202,skos:Concept,202,colt:fossieltypes,,Rhynchonella dutempleana,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:200,skos:Concept,200,colt:fossieltypes,,Rhynchonella  limbata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:190,skos:Concept,190,colt:fossieltypes,,Rhynchonella plicatilis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:191,skos:Concept,191,colt:fossieltypes,,Rhynchonella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:257,skos:Concept,257,colt:fossieltypes,,Rostellaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:235,skos:Concept,235,colt:fossieltypes,,Rotalina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:567,skos:Concept,567,colt:fossieltypes,,Samaropsis emarginata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:568,skos:Concept,568,colt:fossieltypes,,Samaropsis fluitans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:41,skos:Concept,41,colt:fossieltypes,,Samaropsis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:653,skos:Concept,653,colt:fossieltypes,,Scalaria decorata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:652,skos:Concept,652,colt:fossieltypes,,Scalaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:60,skos:Concept,60,colt:fossieltypes,,schelpen / schelpenresten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:116,skos:Concept,116,colt:fossieltypes,,Schizophoria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:378,skos:Concept,378,colt:fossieltypes,,Schlotheimia angulata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:379,skos:Concept,379,colt:fossieltypes,,Schlotheimia charmassei,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:377,skos:Concept,377,colt:fossieltypes,,Schlotheimia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:107,skos:Concept,107,colt:fossieltypes,,Sclapellites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:609,skos:Concept,609,colt:fossieltypes,,Sigillaria cordiformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:569,skos:Concept,569,colt:fossieltypes,,Sigillaria davreuxi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:570,skos:Concept,570,colt:fossieltypes,,Sigillaria décortiqués,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:571,skos:Concept,571,colt:fossieltypes,,Sigillaria elegans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:326,skos:Concept,326,colt:fossieltypes,,Sigillaria elongata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:572,skos:Concept,572,colt:fossieltypes,,Sigillaria laevigata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:573,skos:Concept,573,colt:fossieltypes,,Sigillaria mamillaris,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:327,skos:Concept,327,colt:fossieltypes,,Sigillaria ovata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:574,skos:Concept,574,colt:fossieltypes,,Sigillaria reniformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:575,skos:Concept,575,colt:fossieltypes,,Sigillaria reniformis vel laevigata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:328,skos:Concept,328,colt:fossieltypes,,Sigillaria rugosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:329,skos:Concept,329,colt:fossieltypes,,Sigillaria scutellata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:42,skos:Concept,42,colt:fossieltypes,,Sigillaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:330,skos:Concept,330,colt:fossieltypes,,Sigillaria tessellata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:54,skos:Concept,54,colt:fossieltypes,,Sinusites = Cochlichnus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:331,skos:Concept,331,colt:fossieltypes,,Sphenophyllum cuneifolium,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:576,skos:Concept,576,colt:fossieltypes,,Sphenophyllum emarginatum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:577,skos:Concept,577,colt:fossieltypes,,Sphenophyllum majus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:332,skos:Concept,332,colt:fossieltypes,,Sphenophyllum myriophyllum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:43,skos:Concept,43,colt:fossieltypes,,Sphenophyllum sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:333,skos:Concept,333,colt:fossieltypes,,Sphenopteris artemisiaefolioides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:578,skos:Concept,578,colt:fossieltypes,,Sphenopteris baumleri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:579,skos:Concept,579,colt:fossieltypes,,Sphenopteris convexiloba,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:334,skos:Concept,334,colt:fossieltypes,,Sphenopteris coralloïdes,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:580,skos:Concept,580,colt:fossieltypes,,Sphenopteris crossotheca,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:335,skos:Concept,335,colt:fossieltypes,,Sphenopteris herbacea,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:336,skos:Concept,336,colt:fossieltypes,,Sphenopteris hoeninghausi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:581,skos:Concept,581,colt:fossieltypes,,Sphenopteris laurenti,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:392,skos:Concept,392,colt:fossieltypes,,Sphenopteris neuropteroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:582,skos:Concept,582,colt:fossieltypes,,Sphenopteris neuroteroides var. Leonardi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:403,skos:Concept,403,colt:fossieltypes,,Sphenopteris nummularia,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:337,skos:Concept,337,colt:fossieltypes,,Sphenopteris obtusiloba,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:338,skos:Concept,338,colt:fossieltypes,,Sphenopteris quadridactylites,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:44,skos:Concept,44,colt:fossieltypes,,Sphenopteris sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:619,skos:Concept,619,colt:fossieltypes,,Sphenopteris spiniformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:583,skos:Concept,583,colt:fossieltypes,,Sphenopteris spinosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:391,skos:Concept,391,colt:fossieltypes,,Sphenopteris striata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:339,skos:Concept,339,colt:fossieltypes,,Sphenopteris trifoliolata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:584,skos:Concept,584,colt:fossieltypes,,Sphenopteris trigonophylla,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:68,skos:Concept,68,colt:fossieltypes,,spiculae,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:120,skos:Concept,120,colt:fossieltypes,,spirifer,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:172,skos:Concept,172,colt:fossieltypes,,Spirifer glaber,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:585,skos:Concept,585,colt:fossieltypes,,Spirifer sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:634,skos:Concept,634,colt:fossieltypes,,Spirophyton caudagalli,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:100,skos:Concept,100,colt:fossieltypes,,Spirophyton sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:340,skos:Concept,340,colt:fossieltypes,,Spirorbis carbonarius,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:3,skos:Concept,3,colt:fossieltypes,,Spirorbis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:227,skos:Concept,227,colt:fossieltypes,,Spondyles sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:162,skos:Concept,162,colt:fossieltypes,,sponsspicullen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:233,skos:Concept,233,colt:fossieltypes,,sponzen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:45,skos:Concept,45,colt:fossieltypes,,sporen / sporenregen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:355,skos:Concept,355,colt:fossieltypes,,Squales sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:588,skos:Concept,588,colt:fossieltypes,,Stigmaria eveni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:341,skos:Concept,341,colt:fossieltypes,,Stigmaria ficoïdes,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:589,skos:Concept,589,colt:fossieltypes,,Stigmaria reticulata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:47,skos:Concept,47,colt:fossieltypes,,Stigmaria sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:118,skos:Concept,118,colt:fossieltypes,,Straparolus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:590,skos:Concept,590,colt:fossieltypes,,Strepsodus sauroides,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:591,skos:Concept,591,colt:fossieltypes,,Strepsodus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:173,skos:Concept,173,colt:fossieltypes,,Streptorhynchus crenistria,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:592,skos:Concept,592,colt:fossieltypes,,Streptorhynchus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:353,skos:Concept,353,colt:fossieltypes,,stromatolieten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:69,skos:Concept,69,colt:fossieltypes,,stromatoporen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:46,skos:Concept,46,colt:fossieltypes,,takjes / twijgen,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:678,skos:Concept,678,colt:fossieltypes,,Tellina mülleri,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:226,skos:Concept,226,colt:fossieltypes,,Tellina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:682,skos:Concept,682,colt:fossieltypes,,Tellina strigata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:668,skos:Concept,668,colt:fossieltypes,,Tellina subdecussata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:389,skos:Concept,389,colt:fossieltypes,,Terebella lewiensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:388,skos:Concept,388,colt:fossieltypes,,Terebella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:207,skos:Concept,207,colt:fossieltypes,,Terebratula sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:152,skos:Concept,152,colt:fossieltypes,,Teredo sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:373,skos:Concept,373,colt:fossieltypes,,Teredo voracissima,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:168,skos:Concept,168,colt:fossieltypes,,Thecidea papillata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:593,skos:Concept,593,colt:fossieltypes,,Thecidea sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:177,skos:Concept,177,colt:fossieltypes,,Trigonia limbata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:242,skos:Concept,242,colt:fossieltypes,,Trigonia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:374,skos:Concept,374,colt:fossieltypes,,Trigonia vaalsiensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:675,skos:Concept,675,colt:fossieltypes,,Trigonia vallscum,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:342,skos:Concept,342,colt:fossieltypes,,Trigonocarpus noeggerathi,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:64,skos:Concept,64,colt:fossieltypes,,Trigonocarpus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:594,skos:Concept,594,colt:fossieltypes,,Trigonocarpus sporites,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:169,skos:Concept,169,colt:fossieltypes,,Trigonosemus pectiniformis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:595,skos:Concept,595,colt:fossieltypes,,Trigonosemus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:133,skos:Concept,133,colt:fossieltypes,,Trochus gemineus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:596,skos:Concept,596,colt:fossieltypes,,Trochus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:620,skos:Concept,620,colt:fossieltypes,,Tubbreva amoropsis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:132,skos:Concept,132,colt:fossieltypes,,Tubbreva exaltata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:597,skos:Concept,597,colt:fossieltypes,,Tubbreva sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:651,skos:Concept,651,colt:fossieltypes,,Tudicla depressa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:650,skos:Concept,650,colt:fossieltypes,,Tudicla sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:131,skos:Concept,131,colt:fossieltypes,,Turritella acantophospora,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:214,skos:Concept,214,colt:fossieltypes,,Turritella alternans,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:387,skos:Concept,387,colt:fossieltypes,,Turritella multilincata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:181,skos:Concept,181,colt:fossieltypes,,Turritella nodosa,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:385,skos:Concept,385,colt:fossieltypes,,Turritella sexlineata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:215,skos:Concept,215,colt:fossieltypes,,Turritella sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:343,skos:Concept,343,colt:fossieltypes,,Ulodendron majus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:598,skos:Concept,598,colt:fossieltypes,,Ulodendron minus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:599,skos:Concept,599,colt:fossieltypes,,Ulodendron ophiurus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:48,skos:Concept,48,colt:fossieltypes,,Ulodendron sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:600,skos:Concept,600,colt:fossieltypes,,Ulodendron wortheni,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:49,skos:Concept,49,colt:fossieltypes,,Ulostrobus sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:601,skos:Concept,601,colt:fossieltypes,,Ulostrobus squarrosus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:673,skos:Concept,673,colt:fossieltypes,,Venericardia santonensis,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:672,skos:Concept,672,colt:fossieltypes,,Venericardia sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:635,skos:Concept,635,colt:fossieltypes,,Ventriculites sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:636,skos:Concept,636,colt:fossieltypes,,Ventriculites striatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:639,skos:Concept,639,colt:fossieltypes,,Verruculina sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:17,skos:Concept,17,colt:fossieltypes,,visresten,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:176,skos:Concept,176,colt:fossieltypes,,Vola quadricostata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:369,skos:Concept,369,colt:fossieltypes,,Vola sexcostata,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:175,skos:Concept,175,colt:fossieltypes,,Vola sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:669,skos:Concept,669,colt:fossieltypes,,Volutilithes sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:670,skos:Concept,670,colt:fossieltypes,,Volutilithes subsemiplicatus,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:614,skos:Concept,614,colt:fossieltypes,,Wittleyseya sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:30,skos:Concept,30,colt:fossieltypes,,zaden,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:602,skos:Concept,602,colt:fossieltypes,,Zaphrentis postuma,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:603,skos:Concept,603,colt:fossieltypes,,Zaphrentis sp.,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
+ct:238,skos:Concept,238,colt:fossieltypes,,zeeëgel,,,,,,,,,,,,,cs:fossieltype,,,,,,,cs:fossieltype
