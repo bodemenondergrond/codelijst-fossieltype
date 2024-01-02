@@ -1,0 +1,458 @@
+{
+    "@graph": [
+        {
+            "@id": "omg_dataset:codelijst-fossieltype.0.1.0",
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van testconcepten, die gebruikt worden binnen het beleidsdomein bodemenondergrond van de Vlaamse Overheid."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/codelijst-fossieltype.0.1.0.html"
+            },
+            "dcterms:spatial": [
+                {
+                    "@id": "country:BEL"
+                },
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                }
+            ],
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype (0.1.0)"
+            },
+            "dcat:landingPage": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "dcat:distribution": [
+                {
+                    "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-fossieltype.0.1.0"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_rdf"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_csv"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_ttl"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_jsonld"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_xsd"
+                }
+            ],
+            "dcat:theme": [
+                {
+                    "@id": "datatheme_be:ENVI"
+                },
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "gemet:10087"
+                }
+            ],
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype"
+            },
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst fossieltype"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-fossieltype.0.1.0"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "@type": "dcat:Dataset",
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            },
+            "owl:versionInfo": "0.1.0",
+            "dcterms:isVersionOf": {
+                "@id": "omg_dataset:codelijst-fossieltype"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:fossieltype"
+            },
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.dataset.codelijst-fossieltype.0.1.0"
+        },
+        {
+            "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-fossieltype.0.1.0",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-fossieltype.0.1.0",
+            "spdx:downloadLocation": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-fossieltype/0.1.0/codelijst-fossieltype-0.1.0.jar"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "@type": [
+                "spdx:Package",
+                "dcat:Distribution"
+            ],
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in jar-formaat."
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Package codelijst-fossieltype"
+            },
+            "spdx:packageName": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-fossieltype",
+            "spdx:versionInfo": "0.1.0",
+            "dcat:downloadURL": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-fossieltype/0.1.0/codelijst-fossieltype-0.1.0.jar"
+            },
+            "dcterms:format": {
+                "@id": "file_type:JAR"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, Jar maven package."
+            },
+            "spdx:packageFileName": "codelijst-fossieltype-0.1.0.jar",
+            "dcterms:identifier": {
+                "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-fossieltype.0.1.0"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_rdf",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype_rdf",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in xml rdf-formaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, geserialiseerd in rdf/xml bestand."
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_XML"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype.rdf"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, in xml rdf-formaat."
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_rdf"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-fossieltype.0.1.0.fossieltype_rdf.html"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-fossieltype.git"
+            },
+            "@type": "dcat:Distribution"
+        },
+        {
+            "@id": "omg_dataset:codelijst-fossieltype",
+            "dcterms:hasVersion": {
+                "@id": "omg_dataset:codelijst-fossieltype.0.1.0"
+            },
+            "@type": "dcat:Dataset"
+        },
+        {
+            "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_csv",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype_csv",
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-fossieltype.git"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in text/csv formaat."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_csv"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-fossieltype.0.1.0.fossieltype_csv.html"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/csv"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, in text/csv formaat."
+            },
+            "dcterms:format": {
+                "@id": "file_type:CSV"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, geserialiseerd in csv tabelformaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype.csv"
+            },
+            "@type": "dcat:Distribution"
+        },
+        {
+            "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_ttl",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype.ttl"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-fossieltype.0.1.0.fossieltype_ttl.html"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, geserialiseerd in Turtle bestand."
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_ttl"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_TURTLE"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, in Turtle rdf-formaat."
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-fossieltype.git"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/turtle"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype_ttl",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in Turtle rdf-formaat."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_jsonld",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, geserialiseerd in een jsonld bestand."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "@type": "dcat:Distribution",
+            "dcterms:format": {
+                "@id": "file_type:JSON_LD"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, in jsonld rdf-formaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype.jsonld"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype_jsonld",
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_jsonld"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-fossieltype.git"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-fossieltype.0.1.0.fossieltype_jsonld.html"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in jsonld rdf-formaat."
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_xsd",
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype.xsd"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-fossieltype.git"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-fossieltype.0.1.0.fossieltype_xsd",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, in xml xsd-formaat."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype in xml/xsd formaat."
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-02",
+                "@type": "xsd:date"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/xml"
+            },
+            "dcterms:format": {
+                "@id": "file_type:XSD"
+            },
+            "@type": "dcat:Distribution",
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-fossieltype.0.1.0.fossieltype_xsd.html"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-fossieltype.0.1.0.fossieltype_xsd"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst fossieltype, geserialiseerd in een xsd bestand met een enumeratie."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            }
+        },
+        {
+            "@id": "omg_catalog:codelijst",
+            "dcat:dataset": {
+                "@id": "omg_dataset:codelijst-fossieltype"
+            },
+            "@type": "dcat:Catalog"
+        }
+    ],
+    "@context": {
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "void": "http://rdfs.org/ns/void#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "omg_conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "dc": "http://purl.org/dc/elements/1.1/"
+    }
+}

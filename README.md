@@ -1,8 +1,8 @@
-# codelijst-fossieltypes
+# codelijst-fossieltype
 
 ## Samenvatting
 
-De codelijst 'fossieltypes' bevat eenduidige benamingen van ...
+De codelijst 'fossieltype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud
