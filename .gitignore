@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+bamboo-specs
+temp
+node_modules
+src/.env
+src/utils/setenv.js
+codelijst-fossieltype.iml

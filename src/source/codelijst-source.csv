@@ -1,0 +1,667 @@
+uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+collectie:fossieltype,be.vlaanderen.bodemenondergrond.data.id.collection.fossieltype.fossieltype,,,Collectie van fossieltype.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,
+concept:684,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.684,collectie:fossieltype,684,Acritarchen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:105,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.105,collectie:fossieltype,105,Acrolepis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:161,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.161,collectie:fossieltype,161,Actaeon sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:187,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.187,collectie:fossieltype,187,Actinocamax quadratus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:188,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.188,collectie:fossieltype,188,Actinocamax sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:411,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.411,collectie:fossieltype,411,Adiantites sessilis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:97,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.97,collectie:fossieltype,97,Adiantites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:412,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.412,collectie:fossieltype,412,Alethopteris davreuxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:264,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.264,collectie:fossieltype,264,Alethopteris decurrens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:413,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.413,collectie:fossieltype,413,Alethopteris decurrens var. Gracillima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:414,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.414,collectie:fossieltype,414,Alethopteris gracillima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:265,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.265,collectie:fossieltype,265,Alethopteris lonchitica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:606,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.606,collectie:fossieltype,606,Alethopteris lonchitica decurrens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:251,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.251,collectie:fossieltype,251,Alethopteris lonchitifolia davreuxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:266,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.266,collectie:fossieltype,266,Alethopteris serli,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:608,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.608,collectie:fossieltype,608,Alethopteris serli lonchitifolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:18,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.18,collectie:fossieltype,18,Alethopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:415,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.415,collectie:fossieltype,415,Alethopteris valida,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:71,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.71,collectie:fossieltype,71,algaire mat / laminiet,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:196,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.196,collectie:fossieltype,196,algen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:638,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.638,collectie:fossieltype,638,ammonieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:416,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.416,collectie:fossieltype,416,Annularia gallioides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:410,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.410,collectie:fossieltype,410,Annularia microphylla,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:261,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.261,collectie:fossieltype,261,Annularia radiata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:417,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.417,collectie:fossieltype,417,Annularia ramosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:19,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.19,collectie:fossieltype,19,Annularia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:399,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.399,collectie:fossieltype,399,Annularia sphenophylloides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:683,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.683,collectie:fossieltype,683,Anomia lamellosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:656,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.656,collectie:fossieltype,656,Anomia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:418,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.418,collectie:fossieltype,418,Anomya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:255,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.255,collectie:fossieltype,255,Anomya (Terebratula),,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:112,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.112,collectie:fossieltype,112,Anthracoceras sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:419,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.419,collectie:fossieltype,419,Anthracomya discordata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:267,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.267,collectie:fossieltype,267,Anthracomya minima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:420,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.420,collectie:fossieltype,420,Anthracomya minima Phillipsii,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:268,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.268,collectie:fossieltype,268,Anthracomya modiolaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:421,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.421,collectie:fossieltype,421,Anthracomya oblonga,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:269,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.269,collectie:fossieltype,269,Anthracomya philippsi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:8,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.8,collectie:fossieltype,8,Anthracomya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:422,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.422,collectie:fossieltype,422,Anthracomya wardi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:276,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.276,collectie:fossieltype,276,Anthracomya wardi williamsoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:270,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.270,collectie:fossieltype,270,Anthracomya williamsoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:9,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.9,collectie:fossieltype,9,Anthraconaia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:623,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.623,collectie:fossieltype,623,Anthraconauta lenisulcata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:423,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.423,collectie:fossieltype,423,Anthraconauta minima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:289,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.289,collectie:fossieltype,289,Anthraconauta minima phillipsii,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:424,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.424,collectie:fossieltype,424,Anthraconauta Phillipsii,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:425,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.425,collectie:fossieltype,425,Anthraconauta scotica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:10,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.10,collectie:fossieltype,10,Anthraconauta sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:426,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.426,collectie:fossieltype,426,Anthraconauta subovata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:6,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.6,collectie:fossieltype,6,Anthracosia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:7,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.7,collectie:fossieltype,7,Anthracosphaerum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:84,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.84,collectie:fossieltype,84,Aphlebia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:127,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.127,collectie:fossieltype,127,Aporrhais granulosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:671,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.671,collectie:fossieltype,671,Aporrhais nilsoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:427,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.427,collectie:fossieltype,427,Aporrhais sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:155,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.155,collectie:fossieltype,155,Aporrhais speciosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:351,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.351,collectie:fossieltype,351,Arca sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:213,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.213,collectie:fossieltype,213,Arca subglabra,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:59,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.59,collectie:fossieltype,59,arthropoden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:123,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.123,collectie:fossieltype,123,Arthyris lamellosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:428,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.428,collectie:fossieltype,428,Arthyris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:76,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.76,collectie:fossieltype,76,Artisia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:393,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.393,collectie:fossieltype,393,Artisia transversa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:398,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.398,collectie:fossieltype,398,Asolanus camptotaenia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:108,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.108,collectie:fossieltype,108,Asolanus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:143,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.143,collectie:fossieltype,143,Astarte sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:344,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.344,collectie:fossieltype,344,Asterophyllites charaeformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:262,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.262,collectie:fossieltype,262,Asterophyllites equisetiformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:263,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.263,collectie:fossieltype,263,Asterophyllites grandis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:430,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.430,collectie:fossieltype,430,Asterophyllites longifolius,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:431,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.431,collectie:fossieltype,431,Asterophyllites lycopodioides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:429,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.429,collectie:fossieltype,429,Asterophyllites myriophyllum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:432,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.432,collectie:fossieltype,432,Asterophyllites roehli,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:20,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.20,collectie:fossieltype,20,Asterophyllites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:433,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.433,collectie:fossieltype,433,Asterotheca miltoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:434,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.434,collectie:fossieltype,434,Asterotheca sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:21,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.21,collectie:fossieltype,21,Aulacopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:435,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.435,collectie:fossieltype,435,Aulacopteris vulgaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:189,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.189,collectie:fossieltype,189,Avicula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:92,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.92,collectie:fossieltype,92,Aviculopecten sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:210,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.210,collectie:fossieltype,210,Baculites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:126,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.126,collectie:fossieltype,126,Baculites vertebralis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:364,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.364,collectie:fossieltype,364,Balanocrinus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:145,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.145,collectie:fossieltype,145,Balanus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:642,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.642,collectie:fossieltype,642,Barbatia marullensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:641,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.641,collectie:fossieltype,641,Barbatia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:203,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.203,collectie:fossieltype,203,belemnieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:125,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.125,collectie:fossieltype,125,Belemnitella mucronata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:201,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.201,collectie:fossieltype,201,Belemnitella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:436,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.436,collectie:fossieltype,436,Bellinurus Céphaloth.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:437,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.437,collectie:fossieltype,437,Bellinurus reginae,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:102,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.102,collectie:fossieltype,102,Bellinurus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:438,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.438,collectie:fossieltype,438,Beyrichia arcuata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:439,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.439,collectie:fossieltype,439,Beyrichia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:205,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.205,collectie:fossieltype,205,Bivalven,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:271,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.271,collectie:fossieltype,271,Bothrodendron minutifolium,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:440,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.440,collectie:fossieltype,440,Bothrodendron punctatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:22,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.22,collectie:fossieltype,22,Bothrodendron sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:441,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.441,collectie:fossieltype,441,Bothrostrobus olryi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:23,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.23,collectie:fossieltype,23,Bothrostrobus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:192,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.192,collectie:fossieltype,192,Bourgueticrinus ellipticus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:442,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.442,collectie:fossieltype,442,Bourgueticrinus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:62,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.62,collectie:fossieltype,62,brachiopoden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:159,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.159,collectie:fossieltype,159,Bryozoa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:256,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.256,collectie:fossieltype,256,Buccinum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:443,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.443,collectie:fossieltype,443,Calamites approximatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:444,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.444,collectie:fossieltype,444,Calamites carinatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:272,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.272,collectie:fossieltype,272,Calamites cisti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:273,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.273,collectie:fossieltype,273,Calamites indulatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:445,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.445,collectie:fossieltype,445,Calamites ostraviensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:446,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.446,collectie:fossieltype,446,Calamites paleaceus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:274,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.274,collectie:fossieltype,274,Calamites ramosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:447,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.447,collectie:fossieltype,447,Calamites semicircularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:24,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.24,collectie:fossieltype,24,Calamites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:275,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.275,collectie:fossieltype,275,Calamites suckowi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:448,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.448,collectie:fossieltype,448,Calamites undulatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:409,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.409,collectie:fossieltype,409,Calamites verticillatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:278,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.278,collectie:fossieltype,278,Calamophyllites goepperti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:81,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.81,collectie:fossieltype,81,Calamophyllites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:279,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.279,collectie:fossieltype,279,Calamophyllites verticillatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:277,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.277,collectie:fossieltype,277,Calamostachys germanica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:450,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.450,collectie:fossieltype,450,Calamostachys ramosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:25,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.25,collectie:fossieltype,25,Calamostachys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:184,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.184,collectie:fossieltype,184,Calcarina calcitrapoides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:183,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.183,collectie:fossieltype,183,Calcarina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:240,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.240,collectie:fossieltype,240,Calianassa fayiasi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:231,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.231,collectie:fossieltype,231,Calianassa sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:157,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.157,collectie:fossieltype,157,Cancellaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:50,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.50,collectie:fossieltype,50,Cantheliophorus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:451,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.451,collectie:fossieltype,451,Carbonia acuta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:404,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.404,collectie:fossieltype,404,Carbonia fabulina,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:104,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.104,collectie:fossieltype,104,Carbonia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:280,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.280,collectie:fossieltype,280,Carbonicola acuta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:453,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.453,collectie:fossieltype,453,Carbonicola acuta vel. Robusta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:281,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.281,collectie:fossieltype,281,Carbonicola aquilina,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:613,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.613,collectie:fossieltype,613,Carbonicola aquilina acuta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:605,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.605,collectie:fossieltype,605,Carbonicola aquilina var. Phrygiana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:310,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.310,collectie:fossieltype,310,Carbonicola callopristodus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:282,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.282,collectie:fossieltype,282,Carbonicola nucularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:454,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.454,collectie:fossieltype,454,Carbonicola obtusa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:283,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.283,collectie:fossieltype,283,Carbonicola ovalis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:455,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.455,collectie:fossieltype,455,Carbonicola phrygiana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:456,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.456,collectie:fossieltype,456,Carbonicola pyritisées,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:457,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.457,collectie:fossieltype,457,Carbonicola robusta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:284,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.284,collectie:fossieltype,284,Carbonicola similis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:5,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.5,collectie:fossieltype,5,Carbonicola sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:460,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.460,collectie:fossieltype,460,Carbonicola turgida,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:356,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.356,collectie:fossieltype,356,Cardita kickxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:345,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.345,collectie:fossieltype,345,Cardita sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:655,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.655,collectie:fossieltype,655,Cardium becksi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:260,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.260,collectie:fossieltype,260,Cardium cingulatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:674,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.674,collectie:fossieltype,674,Cardium nöggerathi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:140,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.140,collectie:fossieltype,140,Cardium sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:405,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.405,collectie:fossieltype,405,Carpolites perpusillus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:75,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.75,collectie:fossieltype,75,Carpolites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:649,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.649,collectie:fossieltype,649,Cerithes sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:217,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.217,collectie:fossieltype,217,Cerithium decheni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:664,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.664,collectie:fossieltype,664,Cerithium koeneni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:216,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.216,collectie:fossieltype,216,Cerithium sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:317,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.317,collectie:fossieltype,317,Cheirodus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:347,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.347,collectie:fossieltype,347,Cheirodus striatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:239,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.239,collectie:fossieltype,239,Chenopus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:685,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.685,collectie:fossieltype,685,Chitinozoa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:644,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.644,collectie:fossieltype,644,Chlamys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:174,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.174,collectie:fossieltype,174,Chonetes papilionacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:119,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.119,collectie:fossieltype,119,Chonetes sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:164,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.164,collectie:fossieltype,164,Cidaris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:461,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.461,collectie:fossieltype,461,Cingularia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:462,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.462,collectie:fossieltype,462,Cingularia typica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:463,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.463,collectie:fossieltype,463,Cochlichnus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:300,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.300,collectie:fossieltype,300,Coelacanthus elegans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:79,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.79,collectie:fossieltype,79,Coelacanthus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:90,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.90,collectie:fossieltype,90,Coelonautilus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:349,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.349,collectie:fossieltype,349,coniferen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:234,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.234,collectie:fossieltype,234,coprolieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:146,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.146,collectie:fossieltype,146,Corbula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:464,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.464,collectie:fossieltype,464,Cordaianthus pitcairniae,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:465,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.465,collectie:fossieltype,465,Cordaianthus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:466,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.466,collectie:fossieltype,466,Cordaicarpus cordai,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:467,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.467,collectie:fossieltype,467,Cordaicarpus gutbieri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:468,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.468,collectie:fossieltype,468,Cordaicarpus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:285,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.285,collectie:fossieltype,285,Cordaites borassifolius,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:470,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.470,collectie:fossieltype,470,Cordaites palmaeformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:471,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.471,collectie:fossieltype,471,Cordaites principalis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:26,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.26,collectie:fossieltype,26,Cordaites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:154,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.154,collectie:fossieltype,154,Cornuspira involvens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:472,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.472,collectie:fossieltype,472,Cornuspira sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:83,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.83,collectie:fossieltype,83,Corynepteris coralloides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:89,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.89,collectie:fossieltype,89,Corynepteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:473,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.473,collectie:fossieltype,473,Corynepteris sternbergi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:170,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.170,collectie:fossieltype,170,Crania ignabergensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:474,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.474,collectie:fossieltype,474,Crania sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:376,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.376,collectie:fossieltype,376,Crassatella aracaea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:375,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.375,collectie:fossieltype,375,Crassatella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:681,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.681,collectie:fossieltype,681,Crassatella symmetrica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:72,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.72,collectie:fossieltype,72,crinoïden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:153,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.153,collectie:fossieltype,153,Cristellaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:475,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.475,collectie:fossieltype,475,Crossotheca schatzlarensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:476,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.476,collectie:fossieltype,476,Crossotheca sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:179,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.179,collectie:fossieltype,179,Crustaceae,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:643,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.643,collectie:fossieltype,643,Cucullea alta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:386,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.386,collectie:fossieltype,386,Cucullea matheroniana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:477,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.477,collectie:fossieltype,477,Cucullea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:136,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.136,collectie:fossieltype,136,Cucullea subglabra,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:11,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.11,collectie:fossieltype,11,Curvirimula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:286,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.286,collectie:fossieltype,286,Cyclopteris orbicularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:27,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.27,collectie:fossieltype,27,Cyclopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:662,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.662,collectie:fossieltype,662,Cypricardia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:99,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.99,collectie:fossieltype,99,Cypridina (Entomis) sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:178,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.178,collectie:fossieltype,178,Cyprimeria gelinitzi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:478,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.478,collectie:fossieltype,478,Cyprimeria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:224,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.224,collectie:fossieltype,224,Cyprina morrisi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:185,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.185,collectie:fossieltype,185,Cyprina nysti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:141,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.141,collectie:fossieltype,141,Cyprina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:246,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.246,collectie:fossieltype,246,Cypris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:640,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.640,collectie:fossieltype,640,Cytherea ovalis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:663,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.663,collectie:fossieltype,663,Cytherea plana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:660,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.660,collectie:fossieltype,660,Cytherea polymorpha,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:646,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.646,collectie:fossieltype,646,Cytherea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:13,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.13,collectie:fossieltype,13,Cyzicus (Estheria) sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:150,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.150,collectie:fossieltype,150,Dentalium sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:121,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.121,collectie:fossieltype,121,Dentallum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:479,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.479,collectie:fossieltype,479,Diplotmema furcatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:28,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.28,collectie:fossieltype,28,Diplotmema sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:158,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.158,collectie:fossieltype,158,Ditrupa clava,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:180,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.180,collectie:fossieltype,180,Ditrupa mosae,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:167,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.167,collectie:fossieltype,167,Ditrupa sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:622,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.622,collectie:fossieltype,622,Dorycordaites palmaeformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:101,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.101,collectie:fossieltype,101,Dorycordaites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:245,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.245,collectie:fossieltype,245,Dosinia lenticularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:382,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.382,collectie:fossieltype,382,Dosinia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:610,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.610,collectie:fossieltype,610,Drydenius molyneuxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:587,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.587,collectie:fossieltype,587,Drydenius sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:193,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.193,collectie:fossieltype,193,Echinocorys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:194,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.194,collectie:fossieltype,194,Echinocorys vulgaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:480,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.480,collectie:fossieltype,480,Elonichthys aitkeni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:481,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.481,collectie:fossieltype,481,Elonichthys denticulatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:85,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.85,collectie:fossieltype,85,Elonichthys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:252,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.252,collectie:fossieltype,252,Enchodus (Faujasi) sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:130,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.130,collectie:fossieltype,130,Entalis geinitzi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:483,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.483,collectie:fossieltype,483,Entalis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:61,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.61,collectie:fossieltype,61,Entomostraca,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:182,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.182,collectie:fossieltype,182,Eriphyla lenticularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:484,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.484,collectie:fossieltype,484,Eriphyla sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:485,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.485,collectie:fossieltype,485,Estheria simoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:486,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.486,collectie:fossieltype,486,Estheria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:91,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.91,collectie:fossieltype,91,Eurypterus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:197,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.197,collectie:fossieltype,197,foraminiferen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:626,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.626,collectie:fossieltype,626,Fusus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:117,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.117,collectie:fossieltype,117,Gastropoden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:384,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.384,collectie:fossieltype,384,Geinitzia elegans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:383,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.383,collectie:fossieltype,383,Geinitzia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:16,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.16,collectie:fossieltype,16,Geisina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:134,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.134,collectie:fossieltype,134,Gervillia solenoides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:487,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.487,collectie:fossieltype,487,Gervillia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:624,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.624,collectie:fossieltype,624,Glycemeris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:67,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.67,collectie:fossieltype,67,goniatieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:56,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.56,collectie:fossieltype,56,graafgang,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:686,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.686,collectie:fossieltype,686,Graptolieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:637,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.637,collectie:fossieltype,637,Guettardia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:55,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.55,collectie:fossieltype,55,Guilielmites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:488,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.488,collectie:fossieltype,488,Gulpenia limburgensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:489,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.489,collectie:fossieltype,489,Gulpenia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:204,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.204,collectie:fossieltype,204,Gyrolites davreuxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:221,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.221,collectie:fossieltype,221,Gyrolites dewalquei,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:219,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.219,collectie:fossieltype,219,Gyrolites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:625,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.625,collectie:fossieltype,625,haaietanden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:96,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.96,collectie:fossieltype,96,Hexaspermum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:367,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.367,collectie:fossieltype,367,Inoceramus balticus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:667,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.667,collectie:fossieltype,667,Inoceramus inconstans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:666,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.666,collectie:fossieltype,666,Inoceramus kleini,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:368,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.368,collectie:fossieltype,368,Inoceramus lamarcki var. websteri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:222,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.222,collectie:fossieltype,222,Inoceramus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:199,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.199,collectie:fossieltype,199,Janira quadricostata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:232,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.232,collectie:fossieltype,232,Janira sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:70,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.70,collectie:fossieltype,70,koralen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:381,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.381,collectie:fossieltype,381,krabben,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:253,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.253,collectie:fossieltype,253,Lamna sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:14,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.14,collectie:fossieltype,14,Leaia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:490,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.490,collectie:fossieltype,490,Leaia tricarinata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:615,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.615,collectie:fossieltype,615,Leaia tricarinata minima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:220,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.220,collectie:fossieltype,220,Leda deshayesiana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:148,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.148,collectie:fossieltype,148,Leda sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:82,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.82,collectie:fossieltype,82,Lepidodendron aculeatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:494,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.494,collectie:fossieltype,494,Lepidodendron dichotomum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:395,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.395,collectie:fossieltype,395,Lepidodendron dissitum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:607,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.607,collectie:fossieltype,607,Lepidodendron jaraczewski,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:290,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.290,collectie:fossieltype,290,Lepidodendron lycopodioïdes,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:291,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.291,collectie:fossieltype,291,Lepidodendron obovatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:292,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.292,collectie:fossieltype,292,Lepidodendron ophiurus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:31,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.31,collectie:fossieltype,31,Lepidodendron sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:293,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.293,collectie:fossieltype,293,Lepidodendron sternbergi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:249,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.249,collectie:fossieltype,249,Lepidodendron triangulaire,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:294,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.294,collectie:fossieltype,294,Lepidodendron wortheni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:397,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.397,collectie:fossieltype,397,Lepidophloios acerosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:295,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.295,collectie:fossieltype,295,Lepidophloios caricinus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:296,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.296,collectie:fossieltype,296,Lepidophloios laricinus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:80,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.80,collectie:fossieltype,80,Lepidophloios sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:297,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.297,collectie:fossieltype,297,Lepidophyllum lanceolatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:496,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.496,collectie:fossieltype,496,Lepidophyllum majus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:298,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.298,collectie:fossieltype,298,Lepidophyllum obovatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:32,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.32,collectie:fossieltype,32,Lepidophyllum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:299,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.299,collectie:fossieltype,299,Lepidophyllum triangulare,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:497,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.497,collectie:fossieltype,497,Lepidophyllum waldenburgense,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:87,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.87,collectie:fossieltype,87,Lepidospermum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:498,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.498,collectie:fossieltype,498,Lepidostrobus ornatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:33,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.33,collectie:fossieltype,33,Lepidostrobus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:499,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.499,collectie:fossieltype,499,Lepidostrobus sparrosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:500,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.500,collectie:fossieltype,500,Lepidostrobus spinosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:287,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.287,collectie:fossieltype,287,Lepidostrobus squarrosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:288,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.288,collectie:fossieltype,288,Lepidostrobus variabilis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:661,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.661,collectie:fossieltype,661,Lima granulata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:679,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.679,collectie:fossieltype,679,Lima oviformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:211,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.211,collectie:fossieltype,211,Lima soverbyi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:209,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.209,collectie:fossieltype,209,Lima sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:149,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.149,collectie:fossieltype,149,Limatula nysti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:501,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.501,collectie:fossieltype,501,Limatula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:151,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.151,collectie:fossieltype,151,Limopsis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:301,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.301,collectie:fossieltype,301,Lingula mytiloïdes,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:4,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.4,collectie:fossieltype,4,Lingula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:502,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.502,collectie:fossieltype,502,Lingula squamiformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:380,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.380,collectie:fossieltype,380,Lingula tenuissima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:503,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.503,collectie:fossieltype,503,Linopteris muensteri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:504,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.504,collectie:fossieltype,504,Linopteris neuropteroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:505,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.505,collectie:fossieltype,505,Linopteris neuropteroides var. Major,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:302,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.302,collectie:fossieltype,302,Linopteris obliqua,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:34,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.34,collectie:fossieltype,34,Linopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:135,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.135,collectie:fossieltype,135,Liopistha aequivalvis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:506,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.506,collectie:fossieltype,506,Liopistha sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:128,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.128,collectie:fossieltype,128,Lispodesthes schlotheimi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:507,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.507,collectie:fossieltype,507,Lispodesthes sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:303,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.303,collectie:fossieltype,303,Lonchopteris bricei,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:508,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.508,collectie:fossieltype,508,Lonchopteris eschweileriana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:509,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.509,collectie:fossieltype,509,Lonchopteris rugosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:35,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.35,collectie:fossieltype,35,Lonchopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:29,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.29,collectie:fossieltype,29,losse bladeren,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:346,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.346,collectie:fossieltype,346,Lucina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:166,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.166,collectie:fossieltype,166,Lucina squamula,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:129,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.129,collectie:fossieltype,129,Lunatia klipsteini,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:510,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.510,collectie:fossieltype,510,Lunatia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:109,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.109,collectie:fossieltype,109,Lycopodiales,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:304,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.304,collectie:fossieltype,304,Lycopodites carbonaceus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:74,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.74,collectie:fossieltype,74,Lycopodites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:254,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.254,collectie:fossieltype,254,Mactra sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:370,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.370,collectie:fossieltype,370,Magas pumilus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:512,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.512,collectie:fossieltype,512,Magas sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:258,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.258,collectie:fossieltype,258,Mammalia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:305,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.305,collectie:fossieltype,305,Mariopteris acuta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:513,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.513,collectie:fossieltype,513,Mariopteris dernoncourti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:621,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.621,collectie:fossieltype,621,Mariopteris furcata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:401,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.401,collectie:fossieltype,401,Mariopteris latifolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:306,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.306,collectie:fossieltype,306,Mariopteris muricata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:514,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.514,collectie:fossieltype,514,Mariopteris muricata acuta,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:604,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.604,collectie:fossieltype,604,Mariopteris muricata nervosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:515,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.515,collectie:fossieltype,515,Mariopteris muricata sauveuri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:516,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.516,collectie:fossieltype,516,Mariopteris nervosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:400,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.400,collectie:fossieltype,400,Mariopteris sauveuri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:237,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.237,collectie:fossieltype,237,Mariopteris sauveuri latifolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:36,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.36,collectie:fossieltype,36,Mariopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:517,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.517,collectie:fossieltype,517,Mariopteris sphenopteroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:518,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.518,collectie:fossieltype,518,Megalichthys cocolepis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:519,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.519,collectie:fossieltype,519,Megalichthys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:218,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.218,collectie:fossieltype,218,Meretrix ovalis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:142,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.142,collectie:fossieltype,142,Meretrix sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:365,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.365,collectie:fossieltype,365,Micraster sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:350,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.350,collectie:fossieltype,350,Murex sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:520,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.520,collectie:fossieltype,520,Myriophyllites columnaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:51,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.51,collectie:fossieltype,51,Myriophyllites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:307,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.307,collectie:fossieltype,307,Naiadites carinata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:521,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.521,collectie:fossieltype,521,Naiadites carinata aquilina,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:522,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.522,collectie:fossieltype,522,Naiadites flexuosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:406,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.406,collectie:fossieltype,406,Naiadites modiolaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:308,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.308,collectie:fossieltype,308,Naiadites quadrata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:523,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.523,collectie:fossieltype,523,Naiadites sowerbyi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:12,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.12,collectie:fossieltype,12,Naiadites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:665,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.665,collectie:fossieltype,665,Natica cretacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:160,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.160,collectie:fossieltype,160,Natica sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:352,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.352,collectie:fossieltype,352,Nautilus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:676,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.676,collectie:fossieltype,676,Neithea grypheata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:630,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.630,collectie:fossieltype,630,Neithea quadricostata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:628,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.628,collectie:fossieltype,628,Neithea quinquecostata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:654,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.654,collectie:fossieltype,654,Neithea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:524,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.524,collectie:fossieltype,524,Neuropteris abbreviata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:312,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.312,collectie:fossieltype,312,Neuropteris antecedens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:616,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.616,collectie:fossieltype,616,Neuropteris attenuata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:309,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.309,collectie:fossieltype,309,Neuropteris fleonosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:525,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.525,collectie:fossieltype,525,Neuropteris flexuosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:236,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.236,collectie:fossieltype,236,Neuropteris gigantea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:526,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.526,collectie:fossieltype,526,Neuropteris gigantea abbreviata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:528,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.528,collectie:fossieltype,528,Neuropteris gigantea vera,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:311,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.311,collectie:fossieltype,311,Neuropteris heterophylla,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:530,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.530,collectie:fossieltype,530,Neuropteris heterophylla hollandica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:531,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.531,collectie:fossieltype,531,Neuropteris heterophylla linguaefolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:533,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.533,collectie:fossieltype,533,Neuropteris hollandica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:534,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.534,collectie:fossieltype,534,Neuropteris hollandica heterophylla,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:535,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.535,collectie:fossieltype,535,Neuropteris hollandica tenuifolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:390,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.390,collectie:fossieltype,390,Neuropteris linguaefolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:313,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.313,collectie:fossieltype,313,Neuropteris obliqua,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:537,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.537,collectie:fossieltype,537,Neuropteris obliqua var. Impar,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:394,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.394,collectie:fossieltype,394,Neuropteris pseudogigantea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:314,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.314,collectie:fossieltype,314,Neuropteris rarinervis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:315,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.315,collectie:fossieltype,315,Neuropteris scheuchzeri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:538,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.538,collectie:fossieltype,538,Neuropteris schlehani,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:37,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.37,collectie:fossieltype,37,Neuropteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:316,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.316,collectie:fossieltype,316,Neuropteris sporenges,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:63,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.63,collectie:fossieltype,63,Neuropteris tenuifolia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:540,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.540,collectie:fossieltype,540,Neuropteris tenuifolia heterophylla,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:541,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.541,collectie:fossieltype,541,Neuropteris tenuifolia hollandica,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:363,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.363,collectie:fossieltype,363,Nodosaria raphanistrum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:223,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.223,collectie:fossieltype,223,Nodosaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:243,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.243,collectie:fossieltype,243,Notidamus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:241,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.241,collectie:fossieltype,241,Nucula chastelli,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:147,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.147,collectie:fossieltype,147,Nucula duchasteli,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:156,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.156,collectie:fossieltype,156,Nucula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:544,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.544,collectie:fossieltype,544,Nuculochlamys attenuata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:545,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.545,collectie:fossieltype,545,Nuculochlamys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:73,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.73,collectie:fossieltype,73,nummulieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:627,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.627,collectie:fossieltype,627,Nummulites laevigatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:361,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.361,collectie:fossieltype,361,Nummulites planulatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:546,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.546,collectie:fossieltype,546,Nummulites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:357,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.357,collectie:fossieltype,357,Nummulites variolarius,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:165,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.165,collectie:fossieltype,165,Nummulites wemmelensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:547,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.547,collectie:fossieltype,547,Odontaspis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:362,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.362,collectie:fossieltype,362,Odontaspis winkleri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:230,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.230,collectie:fossieltype,230,oesters,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:687,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.687,collectie:fossieltype,687,Oldhamia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:-1,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.-1,collectie:fossieltype,-1,onbepaald,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:0,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.0,collectie:fossieltype,0,onbepaalde fauna,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:1,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.1,collectie:fossieltype,1,onbepaalde flora / plantenresten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:2,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.2,collectie:fossieltype,2,onbepaald ichnofossiel,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:548,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.548,collectie:fossieltype,548,Orbiculoides missouriensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:58,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.58,collectie:fossieltype,58,Orbiculoides sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:163,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.163,collectie:fossieltype,163,Orbitoliten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:113,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.113,collectie:fossieltype,113,Orthoceras sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:225,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.225,collectie:fossieltype,225,Osmeroides sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:15,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.15,collectie:fossieltype,15,ostracoden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:259,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.259,collectie:fossieltype,259,Ostrea callifera,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:407,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.407,collectie:fossieltype,407,Ostrea goldfussi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:208,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.208,collectie:fossieltype,208,Ostrea laciniata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:250,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.250,collectie:fossieltype,250,Ostrea lateralis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:645,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.645,collectie:fossieltype,645,Ostrea Lunata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:195,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.195,collectie:fossieltype,195,Ostrea semiplana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:139,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.139,collectie:fossieltype,139,Ostrea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:247,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.247,collectie:fossieltype,247,Ostrea ventilabrum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:198,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.198,collectie:fossieltype,198,Ostrea vesicularis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:631,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.631,collectie:fossieltype,631,Oxyrhina angustidens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:633,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.633,collectie:fossieltype,633,Oxyrhina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:114,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.114,collectie:fossieltype,114,Palaeocaris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:318,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.318,collectie:fossieltype,318,Palaeostachya pedunculata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:77,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.77,collectie:fossieltype,77,Palaeostachya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:319,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.319,collectie:fossieltype,319,Palaeostachya volkmanni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:552,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.552,collectie:fossieltype,552,Palaeoxyris helicteroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:106,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.106,collectie:fossieltype,106,Palaeoxyris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:553,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.553,collectie:fossieltype,553,Palmatopteris furcata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:554,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.554,collectie:fossieltype,554,Palmatopteris furcata var. linearis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:78,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.78,collectie:fossieltype,78,Palmatopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:629,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.629,collectie:fossieltype,629,Panopoea gurgitis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:248,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.248,collectie:fossieltype,248,Panopoea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:648,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.648,collectie:fossieltype,648,Parapachydiscus levyi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:647,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.647,collectie:fossieltype,647,Parapachydiscus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:124,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.124,collectie:fossieltype,124,Paripteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:657,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.657,collectie:fossieltype,657,Patella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:321,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.321,collectie:fossieltype,321,Pecopteris abbreviata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:320,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.320,collectie:fossieltype,320,Pecopteris aspera,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:402,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.402,collectie:fossieltype,402,Pecopteris avoldensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:322,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.322,collectie:fossieltype,322,Pecopteris dentata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:323,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.323,collectie:fossieltype,323,Pecopteris dentata var. delicatula,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:555,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.555,collectie:fossieltype,555,Pecopteris miltoni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:556,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.556,collectie:fossieltype,556,Pecopteris pennaeformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:324,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.324,collectie:fossieltype,324,Pecopteris plumosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:38,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.38,collectie:fossieltype,38,Pecopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:557,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.557,collectie:fossieltype,557,Pecopteris volkmanni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:66,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.66,collectie:fossieltype,66,pecten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:366,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.366,collectie:fossieltype,366,Pecten campaniensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:658,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.658,collectie:fossieltype,658,Pecten cinctus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:358,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.358,collectie:fossieltype,358,Pecten corneus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:212,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.212,collectie:fossieltype,212,Pecten loevis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:359,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.359,collectie:fossieltype,359,Pecten plebejus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:228,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.228,collectie:fossieltype,228,Pecten pulchellus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:137,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.137,collectie:fossieltype,137,Pecten pusio,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:144,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.144,collectie:fossieltype,144,Pecten sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:206,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.206,collectie:fossieltype,206,Pecten spatulus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:677,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.677,collectie:fossieltype,677,Pectunculus geinitzi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:186,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.186,collectie:fossieltype,186,Pectunculus observatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:680,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.680,collectie:fossieltype,680,Pectunculus obsoletus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:138,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.138,collectie:fossieltype,138,Pectunculus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:354,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.354,collectie:fossieltype,354,Pholadomya margaritacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:244,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.244,collectie:fossieltype,244,Pholadomya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:98,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.98,collectie:fossieltype,98,Pinakodendron sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:348,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.348,collectie:fossieltype,348,Pinites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:659,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.659,collectie:fossieltype,659,Pinna cretacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:360,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.360,collectie:fossieltype,360,Pinna margaritacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:558,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.558,collectie:fossieltype,558,Pinna sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:559,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.559,collectie:fossieltype,559,Pinnularia columnaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:39,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.39,collectie:fossieltype,39,Pinnularia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:53,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.53,collectie:fossieltype,53,Planolites montanus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:52,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.52,collectie:fossieltype,52,Planolites ophthalmoides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:560,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.560,collectie:fossieltype,560,Planolites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:617,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.617,collectie:fossieltype,617,Platysomus parvulus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:618,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.618,collectie:fossieltype,618,Platysomus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:632,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.632,collectie:fossieltype,632,Pleurotomaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:88,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.88,collectie:fossieltype,88,Posidoniella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:110,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.110,collectie:fossieltype,110,Posidonomya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:561,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.561,collectie:fossieltype,561,Prestwichianella rotundata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:562,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.562,collectie:fossieltype,562,Prestwichianella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:103,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.103,collectie:fossieltype,103,Prestwichia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:171,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.171,collectie:fossieltype,171,Productus cora,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:612,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.612,collectie:fossieltype,612,Productus pustula,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:611,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.611,collectie:fossieltype,611,Productus rimberti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:115,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.115,collectie:fossieltype,115,Productus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:371,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.371,collectie:fossieltype,371,Pteria coerulescens,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:372,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.372,collectie:fossieltype,372,Pteria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:563,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.563,collectie:fossieltype,563,Pterinopecten papyraceus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:93,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.93,collectie:fossieltype,93,Pterinopecten sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:57,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.57,collectie:fossieltype,57,pyriettubulatie,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:396,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.396,collectie:fossieltype,396,Radicites capillacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:325,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.325,collectie:fossieltype,325,Radicites columnaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:40,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.40,collectie:fossieltype,40,Radicites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:94,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.94,collectie:fossieltype,94,Renaultia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:111,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.111,collectie:fossieltype,111,Reticuloceras sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:65,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.65,collectie:fossieltype,65,Rhabdoderma sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:564,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.564,collectie:fossieltype,564,Rhadinichtys renieri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:95,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.95,collectie:fossieltype,95,Rhadinichtys sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:122,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.122,collectie:fossieltype,122,Rhipidomella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:566,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.566,collectie:fossieltype,566,Rhizodopsis sauroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:86,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.86,collectie:fossieltype,86,Rhizodopsis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:202,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.202,collectie:fossieltype,202,Rhynchonella dutempleana,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:200,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.200,collectie:fossieltype,200,Rhynchonella  limbata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:190,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.190,collectie:fossieltype,190,Rhynchonella plicatilis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:191,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.191,collectie:fossieltype,191,Rhynchonella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:257,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.257,collectie:fossieltype,257,Rostellaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:235,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.235,collectie:fossieltype,235,Rotalina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:567,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.567,collectie:fossieltype,567,Samaropsis emarginata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:568,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.568,collectie:fossieltype,568,Samaropsis fluitans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:41,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.41,collectie:fossieltype,41,Samaropsis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:653,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.653,collectie:fossieltype,653,Scalaria decorata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:652,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.652,collectie:fossieltype,652,Scalaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:60,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.60,collectie:fossieltype,60,schelpen / schelpenresten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:116,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.116,collectie:fossieltype,116,Schizophoria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:378,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.378,collectie:fossieltype,378,Schlotheimia angulata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:379,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.379,collectie:fossieltype,379,Schlotheimia charmassei,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:377,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.377,collectie:fossieltype,377,Schlotheimia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:107,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.107,collectie:fossieltype,107,Sclapellites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:609,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.609,collectie:fossieltype,609,Sigillaria cordiformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:569,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.569,collectie:fossieltype,569,Sigillaria davreuxi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:570,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.570,collectie:fossieltype,570,Sigillaria décortiqués,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:571,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.571,collectie:fossieltype,571,Sigillaria elegans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:326,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.326,collectie:fossieltype,326,Sigillaria elongata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:572,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.572,collectie:fossieltype,572,Sigillaria laevigata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:573,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.573,collectie:fossieltype,573,Sigillaria mamillaris,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:327,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.327,collectie:fossieltype,327,Sigillaria ovata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:574,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.574,collectie:fossieltype,574,Sigillaria reniformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:575,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.575,collectie:fossieltype,575,Sigillaria reniformis vel laevigata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:328,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.328,collectie:fossieltype,328,Sigillaria rugosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:329,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.329,collectie:fossieltype,329,Sigillaria scutellata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:42,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.42,collectie:fossieltype,42,Sigillaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:330,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.330,collectie:fossieltype,330,Sigillaria tessellata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:54,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.54,collectie:fossieltype,54,Sinusites = Cochlichnus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:331,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.331,collectie:fossieltype,331,Sphenophyllum cuneifolium,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:576,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.576,collectie:fossieltype,576,Sphenophyllum emarginatum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:577,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.577,collectie:fossieltype,577,Sphenophyllum majus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:332,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.332,collectie:fossieltype,332,Sphenophyllum myriophyllum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:43,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.43,collectie:fossieltype,43,Sphenophyllum sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:333,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.333,collectie:fossieltype,333,Sphenopteris artemisiaefolioides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:578,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.578,collectie:fossieltype,578,Sphenopteris baumleri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:579,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.579,collectie:fossieltype,579,Sphenopteris convexiloba,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:334,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.334,collectie:fossieltype,334,Sphenopteris coralloïdes,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:580,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.580,collectie:fossieltype,580,Sphenopteris crossotheca,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:335,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.335,collectie:fossieltype,335,Sphenopteris herbacea,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:336,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.336,collectie:fossieltype,336,Sphenopteris hoeninghausi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:581,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.581,collectie:fossieltype,581,Sphenopteris laurenti,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:392,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.392,collectie:fossieltype,392,Sphenopteris neuropteroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:582,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.582,collectie:fossieltype,582,Sphenopteris neuroteroides var. Leonardi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:403,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.403,collectie:fossieltype,403,Sphenopteris nummularia,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:337,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.337,collectie:fossieltype,337,Sphenopteris obtusiloba,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:338,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.338,collectie:fossieltype,338,Sphenopteris quadridactylites,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:44,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.44,collectie:fossieltype,44,Sphenopteris sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:619,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.619,collectie:fossieltype,619,Sphenopteris spiniformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:583,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.583,collectie:fossieltype,583,Sphenopteris spinosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:391,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.391,collectie:fossieltype,391,Sphenopteris striata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:339,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.339,collectie:fossieltype,339,Sphenopteris trifoliolata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:584,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.584,collectie:fossieltype,584,Sphenopteris trigonophylla,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:68,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.68,collectie:fossieltype,68,spiculae,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:120,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.120,collectie:fossieltype,120,spirifer,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:172,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.172,collectie:fossieltype,172,Spirifer glaber,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:585,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.585,collectie:fossieltype,585,Spirifer sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:634,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.634,collectie:fossieltype,634,Spirophyton caudagalli,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:100,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.100,collectie:fossieltype,100,Spirophyton sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:340,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.340,collectie:fossieltype,340,Spirorbis carbonarius,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:3,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.3,collectie:fossieltype,3,Spirorbis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:227,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.227,collectie:fossieltype,227,Spondyles sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:162,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.162,collectie:fossieltype,162,sponsspicullen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:233,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.233,collectie:fossieltype,233,sponzen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:45,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.45,collectie:fossieltype,45,sporen / sporenregen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:355,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.355,collectie:fossieltype,355,Squales sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:588,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.588,collectie:fossieltype,588,Stigmaria eveni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:341,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.341,collectie:fossieltype,341,Stigmaria ficoïdes,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:589,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.589,collectie:fossieltype,589,Stigmaria reticulata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:47,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.47,collectie:fossieltype,47,Stigmaria sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:118,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.118,collectie:fossieltype,118,Straparolus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:590,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.590,collectie:fossieltype,590,Strepsodus sauroides,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:591,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.591,collectie:fossieltype,591,Strepsodus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:173,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.173,collectie:fossieltype,173,Streptorhynchus crenistria,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:592,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.592,collectie:fossieltype,592,Streptorhynchus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:353,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.353,collectie:fossieltype,353,stromatolieten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:69,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.69,collectie:fossieltype,69,stromatoporen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:46,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.46,collectie:fossieltype,46,takjes / twijgen,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:678,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.678,collectie:fossieltype,678,Tellina mülleri,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:226,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.226,collectie:fossieltype,226,Tellina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:682,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.682,collectie:fossieltype,682,Tellina strigata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:668,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.668,collectie:fossieltype,668,Tellina subdecussata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:389,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.389,collectie:fossieltype,389,Terebella lewiensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:388,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.388,collectie:fossieltype,388,Terebella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:207,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.207,collectie:fossieltype,207,Terebratula sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:152,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.152,collectie:fossieltype,152,Teredo sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:373,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.373,collectie:fossieltype,373,Teredo voracissima,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:168,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.168,collectie:fossieltype,168,Thecidea papillata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:593,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.593,collectie:fossieltype,593,Thecidea sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:177,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.177,collectie:fossieltype,177,Trigonia limbata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:242,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.242,collectie:fossieltype,242,Trigonia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:374,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.374,collectie:fossieltype,374,Trigonia vaalsiensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:675,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.675,collectie:fossieltype,675,Trigonia vallscum,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:342,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.342,collectie:fossieltype,342,Trigonocarpus noeggerathi,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:64,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.64,collectie:fossieltype,64,Trigonocarpus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:594,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.594,collectie:fossieltype,594,Trigonocarpus sporites,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:169,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.169,collectie:fossieltype,169,Trigonosemus pectiniformis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:595,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.595,collectie:fossieltype,595,Trigonosemus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:133,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.133,collectie:fossieltype,133,Trochus gemineus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:596,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.596,collectie:fossieltype,596,Trochus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:620,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.620,collectie:fossieltype,620,Tubbreva amoropsis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:132,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.132,collectie:fossieltype,132,Tubbreva exaltata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:597,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.597,collectie:fossieltype,597,Tubbreva sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:651,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.651,collectie:fossieltype,651,Tudicla depressa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:650,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.650,collectie:fossieltype,650,Tudicla sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:131,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.131,collectie:fossieltype,131,Turritella acantophospora,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:214,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.214,collectie:fossieltype,214,Turritella alternans,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:387,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.387,collectie:fossieltype,387,Turritella multilincata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:181,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.181,collectie:fossieltype,181,Turritella nodosa,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:385,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.385,collectie:fossieltype,385,Turritella sexlineata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:215,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.215,collectie:fossieltype,215,Turritella sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:343,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.343,collectie:fossieltype,343,Ulodendron majus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:598,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.598,collectie:fossieltype,598,Ulodendron minus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:599,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.599,collectie:fossieltype,599,Ulodendron ophiurus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:48,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.48,collectie:fossieltype,48,Ulodendron sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:600,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.600,collectie:fossieltype,600,Ulodendron wortheni,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:49,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.49,collectie:fossieltype,49,Ulostrobus sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:601,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.601,collectie:fossieltype,601,Ulostrobus squarrosus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:673,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.673,collectie:fossieltype,673,Venericardia santonensis,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:672,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.672,collectie:fossieltype,672,Venericardia sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:635,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.635,collectie:fossieltype,635,Ventriculites sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:636,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.636,collectie:fossieltype,636,Ventriculites striatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:639,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.639,collectie:fossieltype,639,Verruculina sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:17,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.17,collectie:fossieltype,17,visresten,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:176,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.176,collectie:fossieltype,176,Vola quadricostata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:369,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.369,collectie:fossieltype,369,Vola sexcostata,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:175,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.175,collectie:fossieltype,175,Vola sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:669,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.669,collectie:fossieltype,669,Volutilithes sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:670,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.670,collectie:fossieltype,670,Volutilithes subsemiplicatus,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:614,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.614,collectie:fossieltype,614,Wittleyseya sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:30,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.30,collectie:fossieltype,30,zaden,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:602,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.602,collectie:fossieltype,602,Zaphrentis postuma,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:603,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.603,collectie:fossieltype,603,Zaphrentis sp.,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+concept:238,be.vlaanderen.bodemenondergrond.data.id.concept.fossieltype.238,collectie:fossieltype,238,zeeëgel,,,,,,,,,,,,,conceptscheme:fossieltype,,,,,,,conceptscheme:fossieltype
+conceptscheme:fossieltype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.fossieltype,,,Lijst van fossieltypes,,,,,,,,,,,,,,,,,,,,
